@@ -1,0 +1,17 @@
+{
+  "id": "LC09_L2SP_123039_20240721_02_T1",
+  "datetime": "2024-07-21T02:55:45.371686Z",
+  "cloud_cover_scene_percent": 0.38,
+  "bbox": [
+    114.0,
+    30.3,
+    114.65,
+    30.84
+  ],
+  "shape": [
+    216,
+    260
+  ],
+  "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/landsat-c2-l2/items/LC09_L2SP_123039_20240721_02_T1",
+  "sampling": "nearest neighbour and geographic reprojection; not building-scale thermal resolution"
+}

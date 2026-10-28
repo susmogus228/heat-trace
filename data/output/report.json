@@ -1,0 +1,1294 @@
+{
+  "city": "Wuhan, China",
+  "bbox": [
+    114.15,
+    30.42,
+    114.5,
+    30.72
+  ],
+  "display_scene": "LC09_L2SP_123039_20240721_02_T1",
+  "train_scenes": [
+    "LC08_L2SP_123039_20230609_02_T1",
+    "LC09_L2SP_123039_20230804_02_T1",
+    "LC09_L2SP_123039_20240705_02_T1"
+  ],
+  "training_pixels": 22911,
+  "results": {
+    "spatial_holdout": {
+      "model": {
+        "count": 9179,
+        "mae_c": 2.1911,
+        "rmse_c": 2.9631,
+        "r2": 0.5791
+      },
+      "baseline": {
+        "count": 9179,
+        "mae_c": 3.5799,
+        "rmse_c": 4.5748,
+        "r2": -0.0033
+      },
+      "linear": {
+        "count": 9179,
+        "mae_c": 2.3242,
+        "rmse_c": 3.0343,
+        "r2": 0.5586
+      }
+    },
+    "temporal_holdout": {
+      "model": {
+        "count": 8649,
+        "mae_c": 3.3888,
+        "rmse_c": 3.8903,
+        "r2": 0.2825
+      },
+      "baseline": {
+        "count": 8649,
+        "mae_c": 4.5815,
+        "rmse_c": 5.3481,
+        "r2": -0.3559
+      },
+      "linear": {
+        "count": 8649,
+        "mae_c": 3.4032,
+        "rmse_c": 3.9257,
+        "r2": 0.2694
+      }
+    },
+    "spatiotemporal_holdout": {
+      "model": {
+        "count": 3636,
+        "mae_c": 4.2494,
+        "rmse_c": 4.8784,
+        "r2": 0.0027
+      },
+      "baseline": {
+        "count": 3636,
+        "mae_c": 4.9398,
+        "rmse_c": 5.9197,
+        "r2": -0.4685
+      },
+      "linear": {
+        "count": 3636,
+        "mae_c": 3.8833,
+        "rmse_c": 4.6199,
+        "r2": 0.1056
+      }
+    }
+  },
+  "chart_sample": [
+    {
+      "ndvi": -0.2749,
+      "observed": 31.34,
+      "predicted": 28.35
+    },
+    {
+      "ndvi": 0.3955,
+      "observed": 47.59,
+      "predicted": 44.98
+    },
+    {
+      "ndvi": 0.3629,
+      "observed": 48.55,
+      "predicted": 45.1
+    },
+    {
+      "ndvi": 0.3223,
+      "observed": 48.76,
+      "predicted": 45.53
+    },
+    {
+      "ndvi": 0.4185,
+      "observed": 51.05,
+      "predicted": 45.64
+    },
+    {
+      "ndvi": 0.4643,
+      "observed": 49.7,
+      "predicted": 44.11
+    },
+    {
+      "ndvi": 0.3912,
+      "observed": 47.51,
+      "predicted": 43.92
+    },
+    {
+      "ndvi": 0.2812,
+      "observed": 55.14,
+      "predicted": 48.92
+    },
+    {
+      "ndvi": 0.3042,
+      "observed": 51.16,
+      "predicted": 47.68
+    },
+    {
+      "ndvi": 0.4238,
+      "observed": 47.46,
+      "predicted": 45.27
+    },
+    {
+      "ndvi": -0.031,
+      "observed": 34.66,
+      "predicted": 32.37
+    },
+    {
+      "ndvi": 0.4804,
+      "observed": 48.01,
+      "predicted": 44.11
+    },
+    {
+      "ndvi": 0.4538,
+      "observed": 48.19,
+      "predicted": 44.13
+    },
+    {
+      "ndvi": 0.5478,
+      "observed": 45.42,
+      "predicted": 42.86
+    },
+    {
+      "ndvi": 0.7636,
+      "observed": 41.06,
+      "predicted": 39.11
+    },
+    {
+      "ndvi": 0.6734,
+      "observed": 43.11,
+      "predicted": 39.99
+    },
+    {
+      "ndvi": 0.4729,
+      "observed": 51.0,
+      "predicted": 45.79
+    },
+    {
+      "ndvi": 0.6685,
+      "observed": 44.1,
+      "predicted": 40.7
+    },
+    {
+      "ndvi": 0.7384,
+      "observed": 41.36,
+      "predicted": 39.77
+    },
+    {
+      "ndvi": 0.2738,
+      "observed": 55.7,
+      "predicted": 45.0
+    },
+    {
+      "ndvi": 0.2973,
+      "observed": 53.3,
+      "predicted": 45.9
+    },
+    {
+      "ndvi": 0.2517,
+      "observed": 36.61,
+      "predicted": 34.67
+    },
+    {
+      "ndvi": 0.3734,
+      "observed": 49.36,
+      "predicted": 44.64
+    },
+    {
+      "ndvi": 0.1526,
+      "observed": 52.14,
+      "predicted": 46.03
+    },
+    {
+      "ndvi": 0.397,
+      "observed": 51.36,
+      "predicted": 45.55
+    },
+    {
+      "ndvi": 0.4355,
+      "observed": 43.47,
+      "predicted": 44.49
+    },
+    {
+      "ndvi": 0.4713,
+      "observed": 40.92,
+      "predicted": 38.83
+    },
+    {
+      "ndvi": 0.4834,
+      "observed": 45.4,
+      "predicted": 44.58
+    },
+    {
+      "ndvi": 0.2735,
+      "observed": 51.38,
+      "predicted": 45.68
+    },
+    {
+      "ndvi": 0.5597,
+      "observed": 46.78,
+      "predicted": 43.23
+    },
+    {
+      "ndvi": 0.5282,
+      "observed": 48.68,
+      "predicted": 43.2
+    },
+    {
+      "ndvi": 0.6487,
+      "observed": 46.5,
+      "predicted": 40.57
+    },
+    {
+      "ndvi": 0.3898,
+      "observed": 50.4,
+      "predicted": 46.06
+    },
+    {
+      "ndvi": 0.2355,
+      "observed": 32.44,
+      "predicted": 33.18
+    },
+    {
+      "ndvi": 0.589,
+      "observed": 46.55,
+      "predicted": 41.78
+    },
+    {
+      "ndvi": 0.3332,
+      "observed": 51.59,
+      "predicted": 45.89
+    },
+    {
+      "ndvi": 0.8046,
+      "observed": 41.16,
+      "predicted": 38.73
+    },
+    {
+      "ndvi": 0.4497,
+      "observed": 44.78,
+      "predicted": 43.68
+    },
+    {
+      "ndvi": 0.2746,
+      "observed": 52.81,
+      "predicted": 48.14
+    },
+    {
+      "ndvi": 0.5496,
+      "observed": 48.97,
+      "predicted": 43.06
+    },
+    {
+      "ndvi": 0.2124,
+      "observed": 52.79,
+      "predicted": 48.55
+    },
+    {
+      "ndvi": 0.3062,
+      "observed": 53.82,
+      "predicted": 47.47
+    },
+    {
+      "ndvi": 0.6621,
+      "observed": 44.75,
+      "predicted": 40.68
+    },
+    {
+      "ndvi": 0.7865,
+      "observed": 40.75,
+      "predicted": 37.57
+    },
+    {
+      "ndvi": 0.8411,
+      "observed": 38.96,
+      "predicted": 39.18
+    },
+    {
+      "ndvi": 0.5377,
+      "observed": 44.75,
+      "predicted": 42.12
+    },
+    {
+      "ndvi": 0.7187,
+      "observed": 44.41,
+      "predicted": 39.8
+    },
+    {
+      "ndvi": 0.5708,
+      "observed": 39.02,
+      "predicted": 37.61
+    },
+    {
+      "ndvi": 0.3047,
+      "observed": 53.59,
+      "predicted": 46.98
+    },
+    {
+      "ndvi": 0.3247,
+      "observed": 50.66,
+      "predicted": 45.7
+    },
+    {
+      "ndvi": 0.4167,
+      "observed": 45.17,
+      "predicted": 44.32
+    },
+    {
+      "ndvi": 0.5814,
+      "observed": 46.71,
+      "predicted": 41.76
+    },
+    {
+      "ndvi": 0.8216,
+      "observed": 40.74,
+      "predicted": 39.74
+    },
+    {
+      "ndvi": 0.6081,
+      "observed": 44.45,
+      "predicted": 41.35
+    },
+    {
+      "ndvi": 0.6974,
+      "observed": 40.85,
+      "predicted": 39.84
+    },
+    {
+      "ndvi": 0.6972,
+      "observed": 42.17,
+      "predicted": 40.29
+    },
+    {
+      "ndvi": 0.8419,
+      "observed": 42.24,
+      "predicted": 37.97
+    },
+    {
+      "ndvi": 0.3902,
+      "observed": 36.94,
+      "predicted": 35.92
+    },
+    {
+      "ndvi": 0.3659,
+      "observed": 50.03,
+      "predicted": 45.13
+    },
+    {
+      "ndvi": 0.5863,
+      "observed": 37.44,
+      "predicted": 38.47
+    },
+    {
+      "ndvi": 0.3687,
+      "observed": 47.83,
+      "predicted": 44.28
+    },
+    {
+      "ndvi": 0.4233,
+      "observed": 47.26,
+      "predicted": 44.13
+    },
+    {
+      "ndvi": 0.3935,
+      "observed": 51.1,
+      "predicted": 45.86
+    },
+    {
+      "ndvi": 0.3648,
+      "observed": 49.25,
+      "predicted": 46.28
+    },
+    {
+      "ndvi": 0.8084,
+      "observed": 42.87,
+      "predicted": 39.84
+    },
+    {
+      "ndvi": 0.2488,
+      "observed": 53.07,
+      "predicted": 49.11
+    },
+    {
+      "ndvi": 0.5124,
+      "observed": 47.79,
+      "predicted": 43.76
+    },
+    {
+      "ndvi": 0.6695,
+      "observed": 45.57,
+      "predicted": 41.43
+    },
+    {
+      "ndvi": 0.6268,
+      "observed": 42.98,
+      "predicted": 38.6
+    },
+    {
+      "ndvi": 0.4809,
+      "observed": 48.03,
+      "predicted": 43.43
+    },
+    {
+      "ndvi": 0.5834,
+      "observed": 44.67,
+      "predicted": 42.1
+    },
+    {
+      "ndvi": 0.2835,
+      "observed": 51.36,
+      "predicted": 46.31
+    },
+    {
+      "ndvi": 0.6193,
+      "observed": 44.44,
+      "predicted": 42.54
+    },
+    {
+      "ndvi": 0.5802,
+      "observed": 46.81,
+      "predicted": 41.61
+    },
+    {
+      "ndvi": 0.6845,
+      "observed": 41.08,
+      "predicted": 40.1
+    },
+    {
+      "ndvi": 0.6938,
+      "observed": 38.03,
+      "predicted": 39.71
+    },
+    {
+      "ndvi": 0.6935,
+      "observed": 45.39,
+      "predicted": 39.98
+    },
+    {
+      "ndvi": 0.4953,
+      "observed": 47.89,
+      "predicted": 42.56
+    },
+    {
+      "ndvi": 0.7903,
+      "observed": 43.63,
+      "predicted": 38.94
+    },
+    {
+      "ndvi": 0.8083,
+      "observed": 41.87,
+      "predicted": 38.68
+    },
+    {
+      "ndvi": 0.5443,
+      "observed": 48.73,
+      "predicted": 45.68
+    },
+    {
+      "ndvi": 0.6122,
+      "observed": 45.38,
+      "predicted": 40.73
+    },
+    {
+      "ndvi": 0.1426,
+      "observed": 33.44,
+      "predicted": 32.37
+    },
+    {
+      "ndvi": 0.68,
+      "observed": 44.41,
+      "predicted": 40.26
+    },
+    {
+      "ndvi": 0.3811,
+      "observed": 54.86,
+      "predicted": 46.84
+    },
+    {
+      "ndvi": 0.2387,
+      "observed": 55.47,
+      "predicted": 48.44
+    },
+    {
+      "ndvi": 0.7538,
+      "observed": 42.85,
+      "predicted": 39.94
+    },
+    {
+      "ndvi": 0.8205,
+      "observed": 42.99,
+      "predicted": 38.97
+    },
+    {
+      "ndvi": 0.6419,
+      "observed": 45.76,
+      "predicted": 41.08
+    },
+    {
+      "ndvi": 0.3008,
+      "observed": 55.31,
+      "predicted": 48.36
+    },
+    {
+      "ndvi": 0.3675,
+      "observed": 46.93,
+      "predicted": 43.81
+    },
+    {
+      "ndvi": 0.4828,
+      "observed": 46.35,
+      "predicted": 43.43
+    },
+    {
+      "ndvi": 0.3645,
+      "observed": 51.27,
+      "predicted": 45.92
+    },
+    {
+      "ndvi": 0.6051,
+      "observed": 40.2,
+      "predicted": 41.89
+    },
+    {
+      "ndvi": 0.3521,
+      "observed": 48.83,
+      "predicted": 45.47
+    },
+    {
+      "ndvi": 0.3557,
+      "observed": 51.88,
+      "predicted": 46.95
+    },
+    {
+      "ndvi": 0.8166,
+      "observed": 41.06,
+      "predicted": 37.39
+    },
+    {
+      "ndvi": 0.5393,
+      "observed": 47.21,
+      "predicted": 43.69
+    },
+    {
+      "ndvi": 0.4164,
+      "observed": 47.84,
+      "predicted": 44.98
+    },
+    {
+      "ndvi": 0.1446,
+      "observed": 33.36,
+      "predicted": 32.35
+    },
+    {
+      "ndvi": 0.7427,
+      "observed": 44.38,
+      "predicted": 40.16
+    },
+    {
+      "ndvi": 0.223,
+      "observed": 46.46,
+      "predicted": 47.52
+    },
+    {
+      "ndvi": 0.4682,
+      "observed": 47.84,
+      "predicted": 45.01
+    },
+    {
+      "ndvi": 0.4749,
+      "observed": 45.6,
+      "predicted": 43.82
+    },
+    {
+      "ndvi": 0.3819,
+      "observed": 49.27,
+      "predicted": 38.67
+    },
+    {
+      "ndvi": 0.6774,
+      "observed": 41.21,
+      "predicted": 39.15
+    },
+    {
+      "ndvi": 0.7383,
+      "observed": 43.82,
+      "predicted": 39.24
+    },
+    {
+      "ndvi": 0.3913,
+      "observed": 49.79,
+      "predicted": 47.2
+    },
+    {
+      "ndvi": 0.3476,
+      "observed": 55.46,
+      "predicted": 44.03
+    },
+    {
+      "ndvi": 0.6689,
+      "observed": 40.52,
+      "predicted": 39.79
+    },
+    {
+      "ndvi": 0.6511,
+      "observed": 45.63,
+      "predicted": 40.59
+    },
+    {
+      "ndvi": 0.7122,
+      "observed": 45.82,
+      "predicted": 39.66
+    },
+    {
+      "ndvi": 0.6092,
+      "observed": 43.32,
+      "predicted": 41.73
+    },
+    {
+      "ndvi": 0.6657,
+      "observed": 44.3,
+      "predicted": 41.95
+    },
+    {
+      "ndvi": 0.5412,
+      "observed": 47.76,
+      "predicted": 41.78
+    },
+    {
+      "ndvi": 0.2941,
+      "observed": 48.24,
+      "predicted": 49.22
+    },
+    {
+      "ndvi": 0.7771,
+      "observed": 43.39,
+      "predicted": 37.72
+    },
+    {
+      "ndvi": 0.3603,
+      "observed": 53.84,
+      "predicted": 44.8
+    },
+    {
+      "ndvi": 0.2919,
+      "observed": 48.05,
+      "predicted": 45.51
+    },
+    {
+      "ndvi": 0.3001,
+      "observed": 50.52,
+      "predicted": 46.65
+    },
+    {
+      "ndvi": 0.7513,
+      "observed": 43.73,
+      "predicted": 41.1
+    },
+    {
+      "ndvi": 0.5523,
+      "observed": 47.87,
+      "predicted": 43.28
+    },
+    {
+      "ndvi": 0.6412,
+      "observed": 46.27,
+      "predicted": 40.68
+    },
+    {
+      "ndvi": 0.8229,
+      "observed": 39.51,
+      "predicted": 39.01
+    },
+    {
+      "ndvi": 0.6752,
+      "observed": 42.12,
+      "predicted": 39.25
+    },
+    {
+      "ndvi": 0.5737,
+      "observed": 45.49,
+      "predicted": 42.14
+    },
+    {
+      "ndvi": 0.5941,
+      "observed": 47.18,
+      "predicted": 43.61
+    },
+    {
+      "ndvi": 0.4696,
+      "observed": 49.36,
+      "predicted": 44.6
+    },
+    {
+      "ndvi": 0.5438,
+      "observed": 47.76,
+      "predicted": 42.96
+    },
+    {
+      "ndvi": 0.3684,
+      "observed": 50.79,
+      "predicted": 44.75
+    },
+    {
+      "ndvi": 0.477,
+      "observed": 45.53,
+      "predicted": 43.38
+    },
+    {
+      "ndvi": 0.3997,
+      "observed": 51.04,
+      "predicted": 45.91
+    },
+    {
+      "ndvi": 0.6786,
+      "observed": 42.11,
+      "predicted": 43.01
+    },
+    {
+      "ndvi": -0.112,
+      "observed": 30.62,
+      "predicted": 29.33
+    },
+    {
+      "ndvi": 0.3982,
+      "observed": 46.75,
+      "predicted": 45.57
+    },
+    {
+      "ndvi": 0.4583,
+      "observed": 52.75,
+      "predicted": 44.43
+    },
+    {
+      "ndvi": 0.759,
+      "observed": 43.73,
+      "predicted": 39.96
+    },
+    {
+      "ndvi": 0.534,
+      "observed": 48.6,
+      "predicted": 43.47
+    },
+    {
+      "ndvi": 0.3451,
+      "observed": 48.96,
+      "predicted": 46.17
+    },
+    {
+      "ndvi": 0.3746,
+      "observed": 49.87,
+      "predicted": 45.63
+    },
+    {
+      "ndvi": 0.3193,
+      "observed": 50.13,
+      "predicted": 45.79
+    },
+    {
+      "ndvi": 0.6116,
+      "observed": 47.46,
+      "predicted": 42.06
+    },
+    {
+      "ndvi": 0.3271,
+      "observed": 48.2,
+      "predicted": 46.33
+    },
+    {
+      "ndvi": 0.3564,
+      "observed": 52.34,
+      "predicted": 45.81
+    },
+    {
+      "ndvi": 0.4776,
+      "observed": 46.73,
+      "predicted": 45.33
+    },
+    {
+      "ndvi": 0.4182,
+      "observed": 49.53,
+      "predicted": 45.49
+    },
+    {
+      "ndvi": 0.2838,
+      "observed": 55.51,
+      "predicted": 47.12
+    },
+    {
+      "ndvi": 0.3669,
+      "observed": 49.12,
+      "predicted": 45.13
+    },
+    {
+      "ndvi": 0.1773,
+      "observed": 53.95,
+      "predicted": 48.3
+    },
+    {
+      "ndvi": 0.2623,
+      "observed": 50.22,
+      "predicted": 48.17
+    },
+    {
+      "ndvi": 0.3028,
+      "observed": 48.89,
+      "predicted": 46.34
+    },
+    {
+      "ndvi": 0.2521,
+      "observed": 55.56,
+      "predicted": 47.08
+    },
+    {
+      "ndvi": 0.486,
+      "observed": 48.09,
+      "predicted": 44.13
+    },
+    {
+      "ndvi": 0.3314,
+      "observed": 49.98,
+      "predicted": 45.28
+    },
+    {
+      "ndvi": 0.8003,
+      "observed": 40.15,
+      "predicted": 38.81
+    },
+    {
+      "ndvi": 0.3522,
+      "observed": 49.53,
+      "predicted": 45.29
+    },
+    {
+      "ndvi": 0.5266,
+      "observed": 51.67,
+      "predicted": 42.48
+    },
+    {
+      "ndvi": 0.7337,
+      "observed": 43.68,
+      "predicted": 39.46
+    },
+    {
+      "ndvi": 0.53,
+      "observed": 35.37,
+      "predicted": 34.94
+    },
+    {
+      "ndvi": 0.095,
+      "observed": 43.84,
+      "predicted": 41.81
+    },
+    {
+      "ndvi": 0.3498,
+      "observed": 51.54,
+      "predicted": 44.51
+    },
+    {
+      "ndvi": 0.1509,
+      "observed": 50.05,
+      "predicted": 47.74
+    },
+    {
+      "ndvi": 0.4374,
+      "observed": 51.25,
+      "predicted": 45.34
+    },
+    {
+      "ndvi": 0.7236,
+      "observed": 41.08,
+      "predicted": 40.99
+    },
+    {
+      "ndvi": 0.6171,
+      "observed": 39.77,
+      "predicted": 39.23
+    },
+    {
+      "ndvi": 0.3899,
+      "observed": 50.59,
+      "predicted": 44.55
+    },
+    {
+      "ndvi": 0.2883,
+      "observed": 56.15,
+      "predicted": 46.56
+    },
+    {
+      "ndvi": 0.4471,
+      "observed": 44.02,
+      "predicted": 40.26
+    },
+    {
+      "ndvi": 0.5388,
+      "observed": 45.98,
+      "predicted": 42.09
+    },
+    {
+      "ndvi": 0.3731,
+      "observed": 51.71,
+      "predicted": 44.67
+    },
+    {
+      "ndvi": 0.4507,
+      "observed": 47.93,
+      "predicted": 44.62
+    },
+    {
+      "ndvi": 0.813,
+      "observed": 39.09,
+      "predicted": 37.77
+    },
+    {
+      "ndvi": 0.5593,
+      "observed": 42.43,
+      "predicted": 38.88
+    },
+    {
+      "ndvi": 0.2281,
+      "observed": 45.79,
+      "predicted": 46.11
+    },
+    {
+      "ndvi": 0.4517,
+      "observed": 49.06,
+      "predicted": 43.95
+    },
+    {
+      "ndvi": 0.3252,
+      "observed": 52.01,
+      "predicted": 46.07
+    },
+    {
+      "ndvi": 0.4381,
+      "observed": 48.68,
+      "predicted": 45.24
+    },
+    {
+      "ndvi": 0.3765,
+      "observed": 46.31,
+      "predicted": 44.94
+    },
+    {
+      "ndvi": 0.4663,
+      "observed": 49.5,
+      "predicted": 44.72
+    },
+    {
+      "ndvi": 0.6471,
+      "observed": 39.94,
+      "predicted": 41.14
+    },
+    {
+      "ndvi": 0.6389,
+      "observed": 38.41,
+      "predicted": 38.4
+    },
+    {
+      "ndvi": 0.1288,
+      "observed": 54.14,
+      "predicted": 50.24
+    },
+    {
+      "ndvi": 0.3944,
+      "observed": 50.05,
+      "predicted": 44.94
+    },
+    {
+      "ndvi": 0.6626,
+      "observed": 37.68,
+      "predicted": 38.5
+    },
+    {
+      "ndvi": 0.422,
+      "observed": 53.86,
+      "predicted": 45.01
+    },
+    {
+      "ndvi": 0.4708,
+      "observed": 45.25,
+      "predicted": 43.41
+    },
+    {
+      "ndvi": 0.2433,
+      "observed": 56.38,
+      "predicted": 46.42
+    },
+    {
+      "ndvi": 0.399,
+      "observed": 49.93,
+      "predicted": 45.69
+    },
+    {
+      "ndvi": 0.4777,
+      "observed": 49.99,
+      "predicted": 45.39
+    },
+    {
+      "ndvi": 0.529,
+      "observed": 45.11,
+      "predicted": 43.37
+    },
+    {
+      "ndvi": 0.0426,
+      "observed": 37.41,
+      "predicted": 33.71
+    },
+    {
+      "ndvi": 0.5907,
+      "observed": 45.36,
+      "predicted": 41.56
+    },
+    {
+      "ndvi": 0.0837,
+      "observed": 45.49,
+      "predicted": 54.12
+    },
+    {
+      "ndvi": 0.4136,
+      "observed": 50.7,
+      "predicted": 45.03
+    },
+    {
+      "ndvi": 0.3507,
+      "observed": 51.15,
+      "predicted": 46.19
+    },
+    {
+      "ndvi": 0.2388,
+      "observed": 54.23,
+      "predicted": 43.81
+    },
+    {
+      "ndvi": 0.2681,
+      "observed": 41.64,
+      "predicted": 37.72
+    },
+    {
+      "ndvi": -0.1041,
+      "observed": 33.03,
+      "predicted": 31.22
+    },
+    {
+      "ndvi": 0.7486,
+      "observed": 42.38,
+      "predicted": 39.67
+    },
+    {
+      "ndvi": 0.5464,
+      "observed": 44.9,
+      "predicted": 42.7
+    },
+    {
+      "ndvi": 0.2268,
+      "observed": 55.94,
+      "predicted": 46.03
+    },
+    {
+      "ndvi": 0.6881,
+      "observed": 45.63,
+      "predicted": 40.54
+    },
+    {
+      "ndvi": 0.3506,
+      "observed": 49.38,
+      "predicted": 45.88
+    },
+    {
+      "ndvi": 0.3728,
+      "observed": 49.4,
+      "predicted": 43.9
+    },
+    {
+      "ndvi": 0.72,
+      "observed": 43.98,
+      "predicted": 40.75
+    },
+    {
+      "ndvi": 0.6517,
+      "observed": 34.65,
+      "predicted": 38.19
+    },
+    {
+      "ndvi": 0.7692,
+      "observed": 42.2,
+      "predicted": 37.49
+    },
+    {
+      "ndvi": 0.3884,
+      "observed": 51.86,
+      "predicted": 43.99
+    },
+    {
+      "ndvi": 0.3964,
+      "observed": 50.85,
+      "predicted": 44.97
+    },
+    {
+      "ndvi": 0.835,
+      "observed": 41.54,
+      "predicted": 37.73
+    },
+    {
+      "ndvi": 0.4413,
+      "observed": 47.44,
+      "predicted": 44.62
+    },
+    {
+      "ndvi": 0.4926,
+      "observed": 42.04,
+      "predicted": 43.57
+    },
+    {
+      "ndvi": 0.4912,
+      "observed": 36.65,
+      "predicted": 37.27
+    },
+    {
+      "ndvi": 0.1959,
+      "observed": 47.73,
+      "predicted": 47.0
+    },
+    {
+      "ndvi": 0.4121,
+      "observed": 47.52,
+      "predicted": 45.35
+    },
+    {
+      "ndvi": 0.6288,
+      "observed": 46.14,
+      "predicted": 40.16
+    },
+    {
+      "ndvi": 0.3396,
+      "observed": 50.64,
+      "predicted": 46.02
+    },
+    {
+      "ndvi": 0.5185,
+      "observed": 48.63,
+      "predicted": 44.12
+    },
+    {
+      "ndvi": 0.2628,
+      "observed": 57.97,
+      "predicted": 48.77
+    },
+    {
+      "ndvi": 0.6828,
+      "observed": 44.13,
+      "predicted": 40.44
+    },
+    {
+      "ndvi": 0.5139,
+      "observed": 48.13,
+      "predicted": 43.61
+    },
+    {
+      "ndvi": 0.4966,
+      "observed": 48.55,
+      "predicted": 43.52
+    },
+    {
+      "ndvi": 0.3661,
+      "observed": 50.17,
+      "predicted": 45.61
+    },
+    {
+      "ndvi": 0.5818,
+      "observed": 49.64,
+      "predicted": 41.94
+    },
+    {
+      "ndvi": -0.246,
+      "observed": 29.18,
+      "predicted": 23.32
+    },
+    {
+      "ndvi": 0.3913,
+      "observed": 50.13,
+      "predicted": 44.88
+    },
+    {
+      "ndvi": 0.6637,
+      "observed": 45.91,
+      "predicted": 42.08
+    },
+    {
+      "ndvi": 0.2982,
+      "observed": 51.7,
+      "predicted": 45.45
+    },
+    {
+      "ndvi": 0.3781,
+      "observed": 51.48,
+      "predicted": 44.8
+    },
+    {
+      "ndvi": 0.6244,
+      "observed": 45.92,
+      "predicted": 43.58
+    },
+    {
+      "ndvi": 0.4046,
+      "observed": 32.89,
+      "predicted": 36.68
+    },
+    {
+      "ndvi": 0.5975,
+      "observed": 46.87,
+      "predicted": 42.73
+    },
+    {
+      "ndvi": 0.6752,
+      "observed": 42.28,
+      "predicted": 40.07
+    },
+    {
+      "ndvi": 0.4044,
+      "observed": 49.06,
+      "predicted": 44.86
+    },
+    {
+      "ndvi": 0.2214,
+      "observed": 56.72,
+      "predicted": 49.16
+    },
+    {
+      "ndvi": 0.2629,
+      "observed": 50.71,
+      "predicted": 46.98
+    },
+    {
+      "ndvi": 0.3896,
+      "observed": 47.68,
+      "predicted": 44.35
+    },
+    {
+      "ndvi": 0.4216,
+      "observed": 47.7,
+      "predicted": 46.13
+    },
+    {
+      "ndvi": 0.4597,
+      "observed": 45.68,
+      "predicted": 44.13
+    },
+    {
+      "ndvi": 0.7484,
+      "observed": 42.38,
+      "predicted": 38.45
+    }
+  ],
+  "features": [
+    "red reflectance",
+    "near infrared reflectance",
+    "shortwave infrared reflectance",
+    "NDVI",
+    "NDBI"
+  ],
+  "method": "Random forest trained on Landsat optical reflectance to estimate surface temperature for the same satellite scene, not a weather forecast.",
+  "limits": [
+    "Reflectance and the Landsat surface-temperature product are related satellite-derived measurements; this is not independent ground-truth validation.",
+    "Spatial holdout is the eastern sector with a gap; pixels remain spatially correlated.",
+    "Temporal holdout is one previously unseen scene; not a guarantee on other dates or cities.",
+    "Cloud, shadow, snow, water and missing data masked; pixels are sampled and do not represent building-scale temperatures."
+  ]
+}

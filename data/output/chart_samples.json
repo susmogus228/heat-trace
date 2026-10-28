@@ -1,0 +1,5777 @@
+{
+  "spatial_holdout": {
+    "population": 9179,
+    "points": [
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 30,
+        "column": 116,
+        "ndvi": 0.2908,
+        "observed": 48.16,
+        "predicted": 45.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 54,
+        "column": 121,
+        "ndvi": 0.2626,
+        "observed": 50.79,
+        "predicted": 47.04
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 108,
+        "column": 108,
+        "ndvi": 0.5138,
+        "observed": 45.77,
+        "predicted": 44.59
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 50,
+        "column": 112,
+        "ndvi": 0.5104,
+        "observed": 43.19,
+        "predicted": 42.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 61,
+        "column": 107,
+        "ndvi": 0.2947,
+        "observed": 33.97,
+        "predicted": 36.31
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 102,
+        "column": 125,
+        "ndvi": 0.2742,
+        "observed": 49.06,
+        "predicted": 47.59
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 94,
+        "column": 131,
+        "ndvi": 0.6298,
+        "observed": 42.18,
+        "predicted": 40.42
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 112,
+        "column": 126,
+        "ndvi": 0.7035,
+        "observed": 41.27,
+        "predicted": 39.98
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 10,
+        "column": 139,
+        "ndvi": 0.2431,
+        "observed": 30.48,
+        "predicted": 33.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 37,
+        "column": 120,
+        "ndvi": 0.2474,
+        "observed": 48.71,
+        "predicted": 43.33
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 85,
+        "column": 114,
+        "ndvi": 0.4298,
+        "observed": 46.08,
+        "predicted": 44.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 36,
+        "column": 130,
+        "ndvi": 0.4122,
+        "observed": 42.57,
+        "predicted": 46.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 57,
+        "column": 130,
+        "ndvi": 0.0938,
+        "observed": 30.61,
+        "predicted": 34.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 96,
+        "column": 109,
+        "ndvi": 0.2245,
+        "observed": 52.2,
+        "predicted": 45.79
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 87,
+        "column": 115,
+        "ndvi": 0.3396,
+        "observed": 43.85,
+        "predicted": 44.96
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 21,
+        "column": 120,
+        "ndvi": 0.4418,
+        "observed": 45.37,
+        "predicted": 44.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 106,
+        "column": 123,
+        "ndvi": 0.3472,
+        "observed": 45.42,
+        "predicted": 46.21
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 106,
+        "column": 126,
+        "ndvi": 0.3899,
+        "observed": 43.78,
+        "predicted": 46.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 56,
+        "column": 126,
+        "ndvi": 0.3521,
+        "observed": 38.64,
+        "predicted": 37.22
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 20,
+        "column": 122,
+        "ndvi": 0.3166,
+        "observed": 46.29,
+        "predicted": 44.41
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 52,
+        "column": 120,
+        "ndvi": 0.2092,
+        "observed": 52.49,
+        "predicted": 48.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 90,
+        "column": 138,
+        "ndvi": 0.3646,
+        "observed": 48.08,
+        "predicted": 44.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 33,
+        "column": 122,
+        "ndvi": 0.3936,
+        "observed": 47.4,
+        "predicted": 45.53
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 54,
+        "column": 135,
+        "ndvi": 0.328,
+        "observed": 32.65,
+        "predicted": 35.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 64,
+        "column": 128,
+        "ndvi": 0.7484,
+        "observed": 36.44,
+        "predicted": 37.84
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 26,
+        "column": 137,
+        "ndvi": 0.3892,
+        "observed": 42.16,
+        "predicted": 45.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 115,
+        "column": 135,
+        "ndvi": 0.6844,
+        "observed": 42.62,
+        "predicted": 41.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 21,
+        "column": 126,
+        "ndvi": 0.4151,
+        "observed": 43.42,
+        "predicted": 44.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 70,
+        "column": 131,
+        "ndvi": 0.3282,
+        "observed": 37.65,
+        "predicted": 42.84
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 68,
+        "column": 124,
+        "ndvi": 0.7482,
+        "observed": 37.08,
+        "predicted": 40.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 90,
+        "column": 123,
+        "ndvi": 0.8293,
+        "observed": 39.14,
+        "predicted": 38.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 41,
+        "column": 109,
+        "ndvi": 0.6328,
+        "observed": 41.49,
+        "predicted": 40.95
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 110,
+        "column": 107,
+        "ndvi": 0.3894,
+        "observed": 46.27,
+        "predicted": 46.7
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 31,
+        "column": 108,
+        "ndvi": 0.3058,
+        "observed": 46.06,
+        "predicted": 45.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 61,
+        "column": 116,
+        "ndvi": 0.1997,
+        "observed": 58.67,
+        "predicted": 45.5
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 23,
+        "column": 136,
+        "ndvi": 0.5444,
+        "observed": 41.8,
+        "predicted": 42.9
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 94,
+        "column": 117,
+        "ndvi": 0.4077,
+        "observed": 48.21,
+        "predicted": 44.27
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 47,
+        "column": 130,
+        "ndvi": 0.6033,
+        "observed": 41.93,
+        "predicted": 43.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 89,
+        "column": 116,
+        "ndvi": 0.4989,
+        "observed": 41.82,
+        "predicted": 44.26
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 117,
+        "column": 131,
+        "ndvi": 0.5173,
+        "observed": 43.37,
+        "predicted": 43.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 60,
+        "column": 126,
+        "ndvi": 0.8208,
+        "observed": 37.54,
+        "predicted": 37.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 79,
+        "column": 130,
+        "ndvi": 0.5442,
+        "observed": 42.4,
+        "predicted": 43.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 86,
+        "column": 134,
+        "ndvi": 0.5109,
+        "observed": 41.34,
+        "predicted": 44.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 93,
+        "column": 113,
+        "ndvi": 0.2814,
+        "observed": 49.32,
+        "predicted": 46.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 100,
+        "column": 118,
+        "ndvi": 0.5028,
+        "observed": 49.24,
+        "predicted": 43.83
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 51,
+        "column": 135,
+        "ndvi": 0.5353,
+        "observed": 40.07,
+        "predicted": 42.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 54,
+        "column": 106,
+        "ndvi": 0.4692,
+        "observed": 42.74,
+        "predicted": 45.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 6,
+        "column": 130,
+        "ndvi": 0.5594,
+        "observed": 45.12,
+        "predicted": 41.2
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 77,
+        "column": 126,
+        "ndvi": 0.5834,
+        "observed": 42.19,
+        "predicted": 41.79
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 84,
+        "column": 119,
+        "ndvi": 0.502,
+        "observed": 41.57,
+        "predicted": 43.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 95,
+        "column": 132,
+        "ndvi": 0.5484,
+        "observed": 45.11,
+        "predicted": 42.4
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 115,
+        "column": 105,
+        "ndvi": 0.3278,
+        "observed": 46.27,
+        "predicted": 47.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 106,
+        "column": 109,
+        "ndvi": 0.439,
+        "observed": 48.37,
+        "predicted": 44.05
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 99,
+        "column": 110,
+        "ndvi": 0.6139,
+        "observed": 40.2,
+        "predicted": 40.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 9,
+        "column": 138,
+        "ndvi": 0.6941,
+        "observed": 40.15,
+        "predicted": 39.71
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 19,
+        "column": 106,
+        "ndvi": 0.7212,
+        "observed": 39.58,
+        "predicted": 39.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 6,
+        "column": 118,
+        "ndvi": 0.6639,
+        "observed": 41.52,
+        "predicted": 39.98
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 5,
+        "column": 128,
+        "ndvi": 0.5412,
+        "observed": 45.58,
+        "predicted": 44.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 31,
+        "column": 120,
+        "ndvi": 0.4091,
+        "observed": 45.8,
+        "predicted": 45.06
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 27,
+        "column": 133,
+        "ndvi": 0.3739,
+        "observed": 42.57,
+        "predicted": 45.27
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 28,
+        "column": 128,
+        "ndvi": 0.3792,
+        "observed": 46.72,
+        "predicted": 45.33
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 58,
+        "column": 115,
+        "ndvi": 0.5616,
+        "observed": 42.66,
+        "predicted": 42.37
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 28,
+        "column": 112,
+        "ndvi": 0.3002,
+        "observed": 49.41,
+        "predicted": 45.79
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 51,
+        "column": 129,
+        "ndvi": 0.4586,
+        "observed": 41.93,
+        "predicted": 43.83
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 20,
+        "column": 131,
+        "ndvi": 0.5375,
+        "observed": 42.07,
+        "predicted": 42.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 48,
+        "column": 138,
+        "ndvi": 0.661,
+        "observed": 40.52,
+        "predicted": 39.31
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 62,
+        "column": 134,
+        "ndvi": 0.3557,
+        "observed": 44.9,
+        "predicted": 45.91
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 94,
+        "column": 119,
+        "ndvi": 0.5345,
+        "observed": 43.02,
+        "predicted": 42.74
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 96,
+        "column": 123,
+        "ndvi": 0.31,
+        "observed": 43.53,
+        "predicted": 45.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 38,
+        "column": 111,
+        "ndvi": 0.2723,
+        "observed": 49.42,
+        "predicted": 45.86
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 44,
+        "column": 110,
+        "ndvi": 0.4309,
+        "observed": 46.41,
+        "predicted": 44.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 70,
+        "column": 116,
+        "ndvi": 0.6361,
+        "observed": 34.41,
+        "predicted": 38.21
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 68,
+        "column": 124,
+        "ndvi": 0.7908,
+        "observed": 38.84,
+        "predicted": 37.91
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 96,
+        "column": 110,
+        "ndvi": 0.1838,
+        "observed": 49.35,
+        "predicted": 48.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 50,
+        "column": 105,
+        "ndvi": 0.5369,
+        "observed": 39.48,
+        "predicted": 38.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 36,
+        "column": 107,
+        "ndvi": 0.3316,
+        "observed": 46.7,
+        "predicted": 43.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 4,
+        "column": 112,
+        "ndvi": 0.4504,
+        "observed": 42.56,
+        "predicted": 43.63
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 93,
+        "column": 130,
+        "ndvi": 0.5012,
+        "observed": 43.95,
+        "predicted": 43.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 0,
+        "column": 111,
+        "ndvi": 0.7525,
+        "observed": 40.25,
+        "predicted": 38.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 21,
+        "column": 136,
+        "ndvi": 0.6214,
+        "observed": 40.55,
+        "predicted": 39.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 6,
+        "column": 132,
+        "ndvi": 0.5074,
+        "observed": 39.61,
+        "predicted": 42.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 58,
+        "column": 121,
+        "ndvi": 0.3849,
+        "observed": 39.16,
+        "predicted": 38.55
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 28,
+        "column": 105,
+        "ndvi": 0.3485,
+        "observed": 43.12,
+        "predicted": 45.04
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 51,
+        "column": 116,
+        "ndvi": 0.3106,
+        "observed": 52.55,
+        "predicted": 47.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 66,
+        "column": 114,
+        "ndvi": 0.4348,
+        "observed": 33.48,
+        "predicted": 36.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 54,
+        "column": 113,
+        "ndvi": 0.3556,
+        "observed": 48.0,
+        "predicted": 49.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 38,
+        "column": 107,
+        "ndvi": 0.3094,
+        "observed": 49.34,
+        "predicted": 48.63
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 38,
+        "column": 137,
+        "ndvi": 0.6232,
+        "observed": 37.82,
+        "predicted": 40.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 51,
+        "column": 125,
+        "ndvi": 0.3377,
+        "observed": 36.39,
+        "predicted": 33.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 78,
+        "column": 139,
+        "ndvi": 0.614,
+        "observed": 40.74,
+        "predicted": 41.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 97,
+        "column": 110,
+        "ndvi": 0.3334,
+        "observed": 53.6,
+        "predicted": 45.25
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 95,
+        "column": 130,
+        "ndvi": 0.5624,
+        "observed": 41.34,
+        "predicted": 42.52
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 72,
+        "column": 136,
+        "ndvi": 0.6571,
+        "observed": 37.92,
+        "predicted": 40.7
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 29,
+        "column": 113,
+        "ndvi": 0.244,
+        "observed": 47.29,
+        "predicted": 48.58
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 9,
+        "column": 106,
+        "ndvi": 0.6893,
+        "observed": 37.88,
+        "predicted": 40.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 102,
+        "column": 106,
+        "ndvi": 0.358,
+        "observed": 47.15,
+        "predicted": 45.38
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 89,
+        "column": 139,
+        "ndvi": 0.7388,
+        "observed": 42.7,
+        "predicted": 39.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 43,
+        "column": 115,
+        "ndvi": 0.35,
+        "observed": 52.85,
+        "predicted": 44.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 73,
+        "column": 139,
+        "ndvi": 0.4773,
+        "observed": 42.73,
+        "predicted": 43.48
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 30,
+        "column": 113,
+        "ndvi": 0.3552,
+        "observed": 48.68,
+        "predicted": 45.44
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 115,
+        "column": 115,
+        "ndvi": 0.2974,
+        "observed": 50.2,
+        "predicted": 48.51
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 48,
+        "column": 115,
+        "ndvi": 0.2604,
+        "observed": 50.41,
+        "predicted": 47.05
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 1,
+        "column": 137,
+        "ndvi": 0.4067,
+        "observed": 40.82,
+        "predicted": 43.07
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 100,
+        "column": 128,
+        "ndvi": 0.265,
+        "observed": 47.42,
+        "predicted": 48.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 48,
+        "column": 107,
+        "ndvi": 0.4889,
+        "observed": 44.53,
+        "predicted": 41.67
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 115,
+        "column": 128,
+        "ndvi": 0.338,
+        "observed": 44.28,
+        "predicted": 47.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 3,
+        "column": 136,
+        "ndvi": 0.4378,
+        "observed": 44.17,
+        "predicted": 49.37
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 24,
+        "column": 129,
+        "ndvi": 0.3634,
+        "observed": 44.87,
+        "predicted": 45.52
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 43,
+        "column": 105,
+        "ndvi": 0.2324,
+        "observed": 45.47,
+        "predicted": 43.88
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 94,
+        "column": 113,
+        "ndvi": 0.3848,
+        "observed": 45.23,
+        "predicted": 45.49
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 8,
+        "column": 105,
+        "ndvi": 0.3394,
+        "observed": 45.82,
+        "predicted": 45.71
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 10,
+        "column": 105,
+        "ndvi": -0.0328,
+        "observed": 29.47,
+        "predicted": 32.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 23,
+        "column": 129,
+        "ndvi": 0.4508,
+        "observed": 48.63,
+        "predicted": 47.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 44,
+        "column": 116,
+        "ndvi": 0.2596,
+        "observed": 57.2,
+        "predicted": 44.04
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 25,
+        "column": 124,
+        "ndvi": 0.4707,
+        "observed": 44.28,
+        "predicted": 44.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 94,
+        "column": 134,
+        "ndvi": 0.2472,
+        "observed": 43.14,
+        "predicted": 46.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 118,
+        "column": 125,
+        "ndvi": 0.4666,
+        "observed": 40.92,
+        "predicted": 43.38
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 118,
+        "column": 135,
+        "ndvi": 0.2428,
+        "observed": 40.42,
+        "predicted": 48.42
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 52,
+        "column": 113,
+        "ndvi": 0.4322,
+        "observed": 45.72,
+        "predicted": 44.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 31,
+        "column": 133,
+        "ndvi": 0.5249,
+        "observed": 40.69,
+        "predicted": 35.07
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 28,
+        "column": 115,
+        "ndvi": 0.1837,
+        "observed": 49.29,
+        "predicted": 49.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 107,
+        "column": 110,
+        "ndvi": 0.3944,
+        "observed": 45.42,
+        "predicted": 45.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 32,
+        "column": 114,
+        "ndvi": 0.1691,
+        "observed": 52.54,
+        "predicted": 43.14
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 35,
+        "column": 122,
+        "ndvi": 0.3272,
+        "observed": 51.59,
+        "predicted": 47.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 93,
+        "column": 128,
+        "ndvi": 0.484,
+        "observed": 43.73,
+        "predicted": 38.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 16,
+        "column": 111,
+        "ndvi": 0.7234,
+        "observed": 37.35,
+        "predicted": 39.86
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 38,
+        "column": 126,
+        "ndvi": 0.3481,
+        "observed": 46.61,
+        "predicted": 46.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 43,
+        "column": 108,
+        "ndvi": 0.2515,
+        "observed": 50.85,
+        "predicted": 45.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 20,
+        "column": 137,
+        "ndvi": 0.5911,
+        "observed": 41.04,
+        "predicted": 41.44
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 47,
+        "column": 107,
+        "ndvi": 0.4251,
+        "observed": 45.99,
+        "predicted": 44.23
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 64,
+        "column": 134,
+        "ndvi": 0.4748,
+        "observed": 44.44,
+        "predicted": 43.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 34,
+        "column": 114,
+        "ndvi": 0.2662,
+        "observed": 47.28,
+        "predicted": 46.05
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 83,
+        "column": 133,
+        "ndvi": 0.4004,
+        "observed": 44.18,
+        "predicted": 44.81
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 38,
+        "column": 129,
+        "ndvi": 0.5415,
+        "observed": 42.76,
+        "predicted": 42.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 85,
+        "column": 110,
+        "ndvi": 0.4103,
+        "observed": 46.74,
+        "predicted": 44.12
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 116,
+        "column": 127,
+        "ndvi": 0.2108,
+        "observed": 50.99,
+        "predicted": 46.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 55,
+        "column": 128,
+        "ndvi": 0.6489,
+        "observed": 35.06,
+        "predicted": 37.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 30,
+        "column": 122,
+        "ndvi": 0.3843,
+        "observed": 45.85,
+        "predicted": 44.7
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 66,
+        "column": 105,
+        "ndvi": 0.6825,
+        "observed": 37.02,
+        "predicted": 38.52
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 48,
+        "column": 111,
+        "ndvi": 0.616,
+        "observed": 43.14,
+        "predicted": 40.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 57,
+        "column": 118,
+        "ndvi": 0.5576,
+        "observed": 42.26,
+        "predicted": 42.42
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 82,
+        "column": 118,
+        "ndvi": 0.7649,
+        "observed": 38.85,
+        "predicted": 38.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 92,
+        "column": 109,
+        "ndvi": 0.2958,
+        "observed": 47.52,
+        "predicted": 45.93
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 105,
+        "column": 131,
+        "ndvi": 0.2419,
+        "observed": 47.63,
+        "predicted": 46.52
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 44,
+        "column": 113,
+        "ndvi": 0.4177,
+        "observed": 45.8,
+        "predicted": 44.76
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 110,
+        "column": 139,
+        "ndvi": 0.5714,
+        "observed": 42.35,
+        "predicted": 42.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 22,
+        "column": 127,
+        "ndvi": 0.6653,
+        "observed": 41.56,
+        "predicted": 39.85
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 106,
+        "column": 134,
+        "ndvi": 0.5076,
+        "observed": 42.09,
+        "predicted": 43.38
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 108,
+        "column": 133,
+        "ndvi": 0.4813,
+        "observed": 44.53,
+        "predicted": 45.22
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 49,
+        "column": 125,
+        "ndvi": 0.2456,
+        "observed": 49.05,
+        "predicted": 46.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 70,
+        "column": 115,
+        "ndvi": 0.2149,
+        "observed": 32.02,
+        "predicted": 36.61
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 110,
+        "column": 125,
+        "ndvi": 0.3368,
+        "observed": 44.62,
+        "predicted": 46.21
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 76,
+        "column": 131,
+        "ndvi": 0.7466,
+        "observed": 40.02,
+        "predicted": 39.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 77,
+        "column": 123,
+        "ndvi": 0.6428,
+        "observed": 37.86,
+        "predicted": 39.54
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 23,
+        "column": 122,
+        "ndvi": 0.3794,
+        "observed": 43.37,
+        "predicted": 44.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 22,
+        "column": 116,
+        "ndvi": 0.2683,
+        "observed": 44.29,
+        "predicted": 43.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 6,
+        "column": 116,
+        "ndvi": 0.5979,
+        "observed": 44.03,
+        "predicted": 43.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 26,
+        "column": 110,
+        "ndvi": 0.2351,
+        "observed": 47.13,
+        "predicted": 48.75
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 40,
+        "column": 129,
+        "ndvi": 0.2273,
+        "observed": 45.37,
+        "predicted": 45.49
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 47,
+        "column": 131,
+        "ndvi": 0.6331,
+        "observed": 39.85,
+        "predicted": 41.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 49,
+        "column": 110,
+        "ndvi": 0.5376,
+        "observed": 45.83,
+        "predicted": 41.48
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 95,
+        "column": 137,
+        "ndvi": 0.5255,
+        "observed": 42.73,
+        "predicted": 43.79
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 78,
+        "column": 138,
+        "ndvi": 0.7499,
+        "observed": 36.97,
+        "predicted": 38.73
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 37,
+        "column": 123,
+        "ndvi": 0.5413,
+        "observed": 44.69,
+        "predicted": 43.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 49,
+        "column": 107,
+        "ndvi": 0.3835,
+        "observed": 39.41,
+        "predicted": 36.14
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 50,
+        "column": 127,
+        "ndvi": 0.4009,
+        "observed": 43.25,
+        "predicted": 43.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 23,
+        "column": 125,
+        "ndvi": 0.3341,
+        "observed": 45.25,
+        "predicted": 42.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 58,
+        "column": 119,
+        "ndvi": 0.509,
+        "observed": 41.76,
+        "predicted": 38.14
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 5,
+        "column": 137,
+        "ndvi": 0.4123,
+        "observed": 39.74,
+        "predicted": 41.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 89,
+        "column": 114,
+        "ndvi": 0.4684,
+        "observed": 46.16,
+        "predicted": 40.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 70,
+        "column": 124,
+        "ndvi": 0.8097,
+        "observed": 37.34,
+        "predicted": 38.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 56,
+        "column": 120,
+        "ndvi": 0.4374,
+        "observed": 48.04,
+        "predicted": 43.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 45,
+        "column": 116,
+        "ndvi": 0.2168,
+        "observed": 59.21,
+        "predicted": 47.4
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 109,
+        "column": 110,
+        "ndvi": 0.3488,
+        "observed": 44.86,
+        "predicted": 47.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 50,
+        "column": 121,
+        "ndvi": 0.3441,
+        "observed": 46.87,
+        "predicted": 44.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 32,
+        "column": 130,
+        "ndvi": 0.4892,
+        "observed": 42.67,
+        "predicted": 43.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 58,
+        "column": 124,
+        "ndvi": 0.5939,
+        "observed": 39.61,
+        "predicted": 37.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 47,
+        "column": 133,
+        "ndvi": 0.6795,
+        "observed": 38.8,
+        "predicted": 40.34
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 75,
+        "column": 133,
+        "ndvi": 0.3607,
+        "observed": 43.83,
+        "predicted": 45.58
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 33,
+        "column": 108,
+        "ndvi": 0.4712,
+        "observed": 42.88,
+        "predicted": 43.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 18,
+        "column": 109,
+        "ndvi": 0.7169,
+        "observed": 40.15,
+        "predicted": 39.01
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 60,
+        "column": 137,
+        "ndvi": 0.7145,
+        "observed": 35.7,
+        "predicted": 39.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 99,
+        "column": 137,
+        "ndvi": 0.4197,
+        "observed": 41.54,
+        "predicted": 44.14
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 40,
+        "column": 130,
+        "ndvi": 0.4461,
+        "observed": 41.69,
+        "predicted": 42.85
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 105,
+        "column": 105,
+        "ndvi": 0.4071,
+        "observed": 43.02,
+        "predicted": 45.02
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 62,
+        "column": 139,
+        "ndvi": 0.4327,
+        "observed": 42.1,
+        "predicted": 45.24
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 109,
+        "column": 138,
+        "ndvi": 0.5633,
+        "observed": 42.81,
+        "predicted": 43.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 61,
+        "column": 105,
+        "ndvi": 0.4354,
+        "observed": 41.55,
+        "predicted": 38.25
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 45,
+        "column": 115,
+        "ndvi": 0.2988,
+        "observed": 46.33,
+        "predicted": 45.86
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 91,
+        "column": 134,
+        "ndvi": 0.5399,
+        "observed": 42.41,
+        "predicted": 43.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 18,
+        "column": 126,
+        "ndvi": 0.6907,
+        "observed": 42.59,
+        "predicted": 41.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 57,
+        "column": 111,
+        "ndvi": 0.6721,
+        "observed": 38.88,
+        "predicted": 38.63
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 87,
+        "column": 111,
+        "ndvi": 0.2738,
+        "observed": 45.14,
+        "predicted": 45.8
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 110,
+        "column": 138,
+        "ndvi": 0.4885,
+        "observed": 40.38,
+        "predicted": 44.07
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 81,
+        "column": 139,
+        "ndvi": 0.7612,
+        "observed": 38.13,
+        "predicted": 39.65
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 85,
+        "column": 105,
+        "ndvi": 0.4389,
+        "observed": 44.35,
+        "predicted": 43.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 49,
+        "column": 139,
+        "ndvi": 0.6364,
+        "observed": 38.75,
+        "predicted": 41.34
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 31,
+        "column": 109,
+        "ndvi": 0.4946,
+        "observed": 44.46,
+        "predicted": 43.44
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 5,
+        "column": 110,
+        "ndvi": 0.3304,
+        "observed": 43.05,
+        "predicted": 46.14
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 14,
+        "column": 120,
+        "ndvi": 0.5891,
+        "observed": 40.09,
+        "predicted": 43.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 62,
+        "column": 115,
+        "ndvi": 0.5237,
+        "observed": 46.03,
+        "predicted": 41.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 44,
+        "column": 133,
+        "ndvi": 0.4217,
+        "observed": 45.76,
+        "predicted": 45.24
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 62,
+        "column": 113,
+        "ndvi": 0.6908,
+        "observed": 43.12,
+        "predicted": 40.34
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 86,
+        "column": 131,
+        "ndvi": 0.434,
+        "observed": 43.22,
+        "predicted": 43.8
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 6,
+        "column": 115,
+        "ndvi": 0.5207,
+        "observed": 41.86,
+        "predicted": 43.4
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 32,
+        "column": 138,
+        "ndvi": 0.5191,
+        "observed": 40.35,
+        "predicted": 44.07
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 104,
+        "column": 108,
+        "ndvi": 0.3753,
+        "observed": 44.74,
+        "predicted": 44.95
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 72,
+        "column": 126,
+        "ndvi": 0.7187,
+        "observed": 39.0,
+        "predicted": 39.49
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 15,
+        "column": 111,
+        "ndvi": 0.6947,
+        "observed": 41.77,
+        "predicted": 43.42
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 41,
+        "column": 124,
+        "ndvi": 0.3568,
+        "observed": 47.43,
+        "predicted": 43.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 42,
+        "column": 132,
+        "ndvi": 0.3911,
+        "observed": 46.17,
+        "predicted": 46.34
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 41,
+        "column": 117,
+        "ndvi": 0.2355,
+        "observed": 54.35,
+        "predicted": 45.16
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 41,
+        "column": 119,
+        "ndvi": 0.1669,
+        "observed": 50.83,
+        "predicted": 44.93
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 90,
+        "column": 105,
+        "ndvi": 0.4816,
+        "observed": 42.29,
+        "predicted": 43.8
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 78,
+        "column": 136,
+        "ndvi": 0.7655,
+        "observed": 38.47,
+        "predicted": 40.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 38,
+        "column": 106,
+        "ndvi": 0.2388,
+        "observed": 53.17,
+        "predicted": 48.13
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 111,
+        "column": 115,
+        "ndvi": 0.4354,
+        "observed": 44.48,
+        "predicted": 43.98
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 99,
+        "column": 120,
+        "ndvi": 0.3502,
+        "observed": 47.12,
+        "predicted": 48.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 66,
+        "column": 135,
+        "ndvi": 0.5153,
+        "observed": 43.11,
+        "predicted": 43.63
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 31,
+        "column": 118,
+        "ndvi": 0.2445,
+        "observed": 51.8,
+        "predicted": 46.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 6,
+        "column": 116,
+        "ndvi": 0.5355,
+        "observed": 41.87,
+        "predicted": 43.12
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 86,
+        "column": 123,
+        "ndvi": 0.6526,
+        "observed": 40.9,
+        "predicted": 40.64
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 94,
+        "column": 135,
+        "ndvi": 0.3581,
+        "observed": 43.52,
+        "predicted": 45.22
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 88,
+        "column": 128,
+        "ndvi": 0.2539,
+        "observed": 45.11,
+        "predicted": 46.96
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 31,
+        "column": 114,
+        "ndvi": 0.2273,
+        "observed": 48.71,
+        "predicted": 45.26
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 21,
+        "column": 129,
+        "ndvi": 0.3472,
+        "observed": 44.1,
+        "predicted": 46.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 26,
+        "column": 130,
+        "ndvi": 0.3687,
+        "observed": 43.22,
+        "predicted": 44.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 29,
+        "column": 130,
+        "ndvi": 0.5778,
+        "observed": 42.36,
+        "predicted": 41.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 41,
+        "column": 115,
+        "ndvi": 0.4631,
+        "observed": 47.06,
+        "predicted": 43.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 44,
+        "column": 127,
+        "ndvi": 0.3631,
+        "observed": 45.23,
+        "predicted": 44.66
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 31,
+        "column": 136,
+        "ndvi": 0.5966,
+        "observed": 38.59,
+        "predicted": 41.07
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 59,
+        "column": 114,
+        "ndvi": 0.1559,
+        "observed": 57.75,
+        "predicted": 48.1
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 77,
+        "column": 109,
+        "ndvi": 0.4706,
+        "observed": 36.36,
+        "predicted": 38.45
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 50,
+        "column": 114,
+        "ndvi": 0.312,
+        "observed": 49.71,
+        "predicted": 45.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 27,
+        "column": 130,
+        "ndvi": 0.3775,
+        "observed": 44.17,
+        "predicted": 46.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240705_02_T1",
+        "row": 68,
+        "column": 115,
+        "ndvi": 0.7479,
+        "observed": 39.19,
+        "predicted": 39.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 19,
+        "column": 123,
+        "ndvi": 0.2238,
+        "observed": 52.34,
+        "predicted": 46.42
+      },
+      {
+        "scene": "LC08_L2SP_123039_20230609_02_T1",
+        "row": 55,
+        "column": 117,
+        "ndvi": 0.3077,
+        "observed": 46.99,
+        "predicted": 46.24
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 20,
+        "column": 121,
+        "ndvi": 0.357,
+        "observed": 47.66,
+        "predicted": 47.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20230804_02_T1",
+        "row": 87,
+        "column": 129,
+        "ndvi": 0.3306,
+        "observed": 46.91,
+        "predicted": 44.92
+      }
+    ]
+  },
+  "temporal_holdout": {
+    "population": 8649,
+    "points": [
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 5,
+        "ndvi": 0.3466,
+        "observed": 46.72,
+        "predicted": 45.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 88,
+        "column": 52,
+        "ndvi": 0.3032,
+        "observed": 50.58,
+        "predicted": 44.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 112,
+        "column": 42,
+        "ndvi": 0.358,
+        "observed": 50.77,
+        "predicted": 44.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 71,
+        "ndvi": 0.455,
+        "observed": 47.69,
+        "predicted": 43.52
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 46,
+        "ndvi": 0.2455,
+        "observed": 51.31,
+        "predicted": 44.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 39,
+        "column": 39,
+        "ndvi": 0.0699,
+        "observed": 53.06,
+        "predicted": 49.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 103,
+        "column": 78,
+        "ndvi": 0.645,
+        "observed": 40.92,
+        "predicted": 39.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 115,
+        "column": 23,
+        "ndvi": 0.6095,
+        "observed": 42.5,
+        "predicted": 43.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 4,
+        "column": 3,
+        "ndvi": 0.5351,
+        "observed": 41.5,
+        "predicted": 38.86
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 81,
+        "column": 69,
+        "ndvi": 0.2586,
+        "observed": 55.95,
+        "predicted": 46.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 61,
+        "column": 4,
+        "ndvi": 0.5539,
+        "observed": 45.24,
+        "predicted": 42.25
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 81,
+        "column": 35,
+        "ndvi": 0.2656,
+        "observed": 51.03,
+        "predicted": 46.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 66,
+        "ndvi": 0.4118,
+        "observed": 46.94,
+        "predicted": 43.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 63,
+        "column": 76,
+        "ndvi": 0.2132,
+        "observed": 48.36,
+        "predicted": 42.44
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 33,
+        "column": 4,
+        "ndvi": 0.4693,
+        "observed": 49.66,
+        "predicted": 42.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 16,
+        "ndvi": 0.4141,
+        "observed": 47.11,
+        "predicted": 44.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 111,
+        "column": 26,
+        "ndvi": 0.6567,
+        "observed": 42.6,
+        "predicted": 39.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 41,
+        "column": 4,
+        "ndvi": 0.4467,
+        "observed": 46.75,
+        "predicted": 43.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 55,
+        "column": 84,
+        "ndvi": 0.3535,
+        "observed": 52.15,
+        "predicted": 45.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 11,
+        "ndvi": 0.4023,
+        "observed": 47.63,
+        "predicted": 44.83
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 61,
+        "ndvi": 0.5024,
+        "observed": 46.58,
+        "predicted": 42.49
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 44,
+        "ndvi": 0.2865,
+        "observed": 44.91,
+        "predicted": 41.57
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 80,
+        "column": 0,
+        "ndvi": 0.718,
+        "observed": 46.83,
+        "predicted": 39.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 21,
+        "column": 37,
+        "ndvi": -0.0248,
+        "observed": 35.15,
+        "predicted": 32.42
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 91,
+        "column": 68,
+        "ndvi": 0.5295,
+        "observed": 48.38,
+        "predicted": 43.34
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 8,
+        "column": 44,
+        "ndvi": 0.5915,
+        "observed": 43.6,
+        "predicted": 42.26
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 68,
+        "column": 18,
+        "ndvi": 0.2094,
+        "observed": 53.72,
+        "predicted": 46.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 24,
+        "ndvi": 0.1408,
+        "observed": 50.55,
+        "predicted": 48.91
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 94,
+        "column": 2,
+        "ndvi": 0.2048,
+        "observed": 52.31,
+        "predicted": 49.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 25,
+        "column": 54,
+        "ndvi": 0.4978,
+        "observed": 45.79,
+        "predicted": 42.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 102,
+        "column": 6,
+        "ndvi": 0.2873,
+        "observed": 48.46,
+        "predicted": 46.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 12,
+        "ndvi": 0.3065,
+        "observed": 50.66,
+        "predicted": 45.91
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 38,
+        "ndvi": 0.3542,
+        "observed": 49.61,
+        "predicted": 44.4
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 31,
+        "ndvi": 0.3822,
+        "observed": 47.9,
+        "predicted": 45.09
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 57,
+        "column": 3,
+        "ndvi": 0.7522,
+        "observed": 42.77,
+        "predicted": 37.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 82,
+        "ndvi": 0.5745,
+        "observed": 48.21,
+        "predicted": 41.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 63,
+        "column": 28,
+        "ndvi": 0.3659,
+        "observed": 50.43,
+        "predicted": 44.71
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 18,
+        "column": 36,
+        "ndvi": -0.1955,
+        "observed": 33.37,
+        "predicted": 30.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 101,
+        "column": 51,
+        "ndvi": 0.6577,
+        "observed": 44.17,
+        "predicted": 40.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 47,
+        "column": 1,
+        "ndvi": 0.5552,
+        "observed": 42.33,
+        "predicted": 41.34
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 28,
+        "ndvi": 0.516,
+        "observed": 45.89,
+        "predicted": 43.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 97,
+        "column": 19,
+        "ndvi": 0.2253,
+        "observed": 51.55,
+        "predicted": 45.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 100,
+        "column": 23,
+        "ndvi": 0.2182,
+        "observed": 43.86,
+        "predicted": 45.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 63,
+        "column": 9,
+        "ndvi": 0.194,
+        "observed": 41.53,
+        "predicted": 36.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 64,
+        "column": 78,
+        "ndvi": 0.3656,
+        "observed": 49.39,
+        "predicted": 45.64
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 20,
+        "column": 8,
+        "ndvi": 0.5253,
+        "observed": 51.45,
+        "predicted": 44.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 88,
+        "column": 26,
+        "ndvi": 0.3804,
+        "observed": 45.67,
+        "predicted": 43.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 47,
+        "column": 28,
+        "ndvi": 0.2193,
+        "observed": 50.77,
+        "predicted": 46.58
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 28,
+        "column": 51,
+        "ndvi": 0.3535,
+        "observed": 46.28,
+        "predicted": 46.26
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 31,
+        "column": 63,
+        "ndvi": 0.2425,
+        "observed": 54.08,
+        "predicted": 48.5
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 63,
+        "column": 72,
+        "ndvi": 0.2635,
+        "observed": 49.27,
+        "predicted": 45.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 44,
+        "column": 35,
+        "ndvi": 0.3866,
+        "observed": 48.51,
+        "predicted": 45.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 66,
+        "column": 19,
+        "ndvi": 0.282,
+        "observed": 49.23,
+        "predicted": 45.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 38,
+        "column": 4,
+        "ndvi": 0.6948,
+        "observed": 43.51,
+        "predicted": 39.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 48,
+        "column": 25,
+        "ndvi": 0.349,
+        "observed": 49.79,
+        "predicted": 44.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 75,
+        "ndvi": 0.4042,
+        "observed": 47.73,
+        "predicted": 44.43
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 71,
+        "column": 86,
+        "ndvi": 0.4891,
+        "observed": 43.61,
+        "predicted": 42.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 46,
+        "column": 90,
+        "ndvi": 0.4114,
+        "observed": 48.35,
+        "predicted": 44.53
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 21,
+        "ndvi": 0.1116,
+        "observed": 50.16,
+        "predicted": 47.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 8,
+        "column": 82,
+        "ndvi": 0.5467,
+        "observed": 42.64,
+        "predicted": 42.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 82,
+        "ndvi": 0.3976,
+        "observed": 48.31,
+        "predicted": 44.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 22,
+        "column": 41,
+        "ndvi": 0.3447,
+        "observed": 49.83,
+        "predicted": 45.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 77,
+        "column": 66,
+        "ndvi": 0.4389,
+        "observed": 48.99,
+        "predicted": 42.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 20,
+        "column": 4,
+        "ndvi": 0.2972,
+        "observed": 50.74,
+        "predicted": 45.05
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 0,
+        "ndvi": 0.7828,
+        "observed": 41.25,
+        "predicted": 37.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 32,
+        "ndvi": 0.2313,
+        "observed": 47.24,
+        "predicted": 44.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 23,
+        "column": 56,
+        "ndvi": 0.3616,
+        "observed": 49.17,
+        "predicted": 44.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 4,
+        "ndvi": 0.7313,
+        "observed": 43.42,
+        "predicted": 39.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 88,
+        "ndvi": 0.2773,
+        "observed": 49.55,
+        "predicted": 45.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 81,
+        "column": 85,
+        "ndvi": 0.3209,
+        "observed": 49.82,
+        "predicted": 46.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 16,
+        "column": 70,
+        "ndvi": 0.3526,
+        "observed": 49.52,
+        "predicted": 48.21
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 93,
+        "column": 67,
+        "ndvi": 0.5973,
+        "observed": 48.05,
+        "predicted": 41.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 58,
+        "column": 46,
+        "ndvi": 0.1682,
+        "observed": 52.36,
+        "predicted": 48.02
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 61,
+        "ndvi": 0.3623,
+        "observed": 50.34,
+        "predicted": 45.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 53,
+        "column": 56,
+        "ndvi": 0.2731,
+        "observed": 50.76,
+        "predicted": 46.47
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 47,
+        "ndvi": 0.4203,
+        "observed": 47.21,
+        "predicted": 43.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 85,
+        "ndvi": 0.4724,
+        "observed": 44.5,
+        "predicted": 42.37
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 103,
+        "column": 53,
+        "ndvi": 0.3394,
+        "observed": 47.02,
+        "predicted": 45.31
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 69,
+        "column": 15,
+        "ndvi": 0.3633,
+        "observed": 52.06,
+        "predicted": 45.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 24,
+        "ndvi": 0.3666,
+        "observed": 47.65,
+        "predicted": 44.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 72,
+        "column": 4,
+        "ndvi": 0.5769,
+        "observed": 43.93,
+        "predicted": 44.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 37,
+        "ndvi": 0.411,
+        "observed": 50.33,
+        "predicted": 44.96
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 9,
+        "column": 2,
+        "ndvi": 0.5623,
+        "observed": 36.61,
+        "predicted": 36.4
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 21,
+        "ndvi": 0.1398,
+        "observed": 54.13,
+        "predicted": 46.14
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 43,
+        "ndvi": 0.2593,
+        "observed": 49.7,
+        "predicted": 45.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 88,
+        "column": 47,
+        "ndvi": 0.4682,
+        "observed": 48.32,
+        "predicted": 44.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 81,
+        "column": 89,
+        "ndvi": 0.6513,
+        "observed": 46.94,
+        "predicted": 40.48
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 82,
+        "column": 28,
+        "ndvi": 0.3576,
+        "observed": 47.37,
+        "predicted": 44.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 22,
+        "ndvi": 0.1169,
+        "observed": 55.11,
+        "predicted": 46.27
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 84,
+        "ndvi": 0.6845,
+        "observed": 41.31,
+        "predicted": 40.71
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 64,
+        "column": 12,
+        "ndvi": 0.3197,
+        "observed": 49.57,
+        "predicted": 46.83
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 48,
+        "ndvi": 0.285,
+        "observed": 51.45,
+        "predicted": 45.64
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 26,
+        "column": 71,
+        "ndvi": 0.3214,
+        "observed": 49.78,
+        "predicted": 45.21
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 9,
+        "column": 57,
+        "ndvi": 0.351,
+        "observed": 43.5,
+        "predicted": 42.86
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 3,
+        "column": 70,
+        "ndvi": 0.4124,
+        "observed": 47.58,
+        "predicted": 44.47
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 107,
+        "column": 60,
+        "ndvi": 0.6109,
+        "observed": 44.43,
+        "predicted": 41.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 37,
+        "ndvi": 0.4641,
+        "observed": 42.64,
+        "predicted": 39.51
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 46,
+        "ndvi": 0.5775,
+        "observed": 46.44,
+        "predicted": 41.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 95,
+        "column": 5,
+        "ndvi": 0.3611,
+        "observed": 52.33,
+        "predicted": 45.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 9,
+        "column": 88,
+        "ndvi": 0.4641,
+        "observed": 46.85,
+        "predicted": 44.66
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 117,
+        "column": 2,
+        "ndvi": 0.6804,
+        "observed": 41.37,
+        "predicted": 40.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 5,
+        "ndvi": 0.379,
+        "observed": 51.26,
+        "predicted": 45.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 0,
+        "column": 74,
+        "ndvi": 0.0804,
+        "observed": 55.77,
+        "predicted": 55.25
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 38,
+        "column": 53,
+        "ndvi": 0.3131,
+        "observed": 53.18,
+        "predicted": 47.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 53,
+        "column": 22,
+        "ndvi": 0.3293,
+        "observed": 45.73,
+        "predicted": 43.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 44,
+        "column": 54,
+        "ndvi": 0.5526,
+        "observed": 48.02,
+        "predicted": 43.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 72,
+        "ndvi": 0.2957,
+        "observed": 50.58,
+        "predicted": 46.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 7,
+        "column": 41,
+        "ndvi": 0.3339,
+        "observed": 48.65,
+        "predicted": 45.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 32,
+        "ndvi": 0.3316,
+        "observed": 52.93,
+        "predicted": 46.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 35,
+        "column": 89,
+        "ndvi": 0.4838,
+        "observed": 46.25,
+        "predicted": 40.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 3,
+        "column": 35,
+        "ndvi": 0.6148,
+        "observed": 44.46,
+        "predicted": 41.38
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 73,
+        "column": 3,
+        "ndvi": 0.7135,
+        "observed": 44.68,
+        "predicted": 42.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 83,
+        "ndvi": 0.455,
+        "observed": 49.22,
+        "predicted": 44.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 55,
+        "ndvi": 0.2958,
+        "observed": 50.26,
+        "predicted": 45.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 76,
+        "column": 54,
+        "ndvi": 0.3523,
+        "observed": 48.12,
+        "predicted": 46.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 103,
+        "column": 88,
+        "ndvi": 0.4993,
+        "observed": 46.96,
+        "predicted": 42.0
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 71,
+        "column": 82,
+        "ndvi": 0.6114,
+        "observed": 44.95,
+        "predicted": 41.7
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 45,
+        "column": 82,
+        "ndvi": 0.4449,
+        "observed": 50.51,
+        "predicted": 44.33
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 54,
+        "ndvi": 0.213,
+        "observed": 49.52,
+        "predicted": 45.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 25,
+        "ndvi": 0.3036,
+        "observed": 48.88,
+        "predicted": 45.04
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 77,
+        "column": 76,
+        "ndvi": 0.318,
+        "observed": 50.58,
+        "predicted": 47.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 111,
+        "column": 54,
+        "ndvi": 0.6046,
+        "observed": 42.78,
+        "predicted": 41.11
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 54,
+        "ndvi": 0.2897,
+        "observed": 49.69,
+        "predicted": 47.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 12,
+        "column": 40,
+        "ndvi": 0.5102,
+        "observed": 45.02,
+        "predicted": 43.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 63,
+        "column": 14,
+        "ndvi": 0.4263,
+        "observed": 50.42,
+        "predicted": 46.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 74,
+        "column": 3,
+        "ndvi": 0.5395,
+        "observed": 46.11,
+        "predicted": 43.44
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 82,
+        "column": 17,
+        "ndvi": 0.3303,
+        "observed": 49.71,
+        "predicted": 45.55
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 39,
+        "ndvi": 0.3682,
+        "observed": 48.8,
+        "predicted": 44.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 7,
+        "ndvi": 0.4846,
+        "observed": 35.65,
+        "predicted": 35.56
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 53,
+        "column": 1,
+        "ndvi": 0.3885,
+        "observed": 47.71,
+        "predicted": 45.53
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 24,
+        "column": 34,
+        "ndvi": 0.5014,
+        "observed": 48.82,
+        "predicted": 43.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 80,
+        "column": 36,
+        "ndvi": 0.2846,
+        "observed": 52.35,
+        "predicted": 45.66
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 31,
+        "column": 43,
+        "ndvi": 0.3474,
+        "observed": 46.33,
+        "predicted": 44.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 14,
+        "column": 8,
+        "ndvi": 0.3503,
+        "observed": 53.5,
+        "predicted": 46.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 99,
+        "column": 50,
+        "ndvi": 0.4558,
+        "observed": 45.05,
+        "predicted": 43.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 117,
+        "column": 66,
+        "ndvi": 0.5169,
+        "observed": 47.5,
+        "predicted": 42.09
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 88,
+        "column": 89,
+        "ndvi": 0.2483,
+        "observed": 48.06,
+        "predicted": 46.09
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 78,
+        "column": 73,
+        "ndvi": 0.5013,
+        "observed": 46.13,
+        "predicted": 43.51
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 39,
+        "ndvi": -0.2043,
+        "observed": 29.49,
+        "predicted": 30.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 0,
+        "ndvi": 0.4212,
+        "observed": 48.03,
+        "predicted": 44.34
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 55,
+        "ndvi": 0.245,
+        "observed": 49.81,
+        "predicted": 45.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 60,
+        "column": 54,
+        "ndvi": 0.1979,
+        "observed": 40.74,
+        "predicted": 39.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 102,
+        "column": 77,
+        "ndvi": 0.5482,
+        "observed": 44.24,
+        "predicted": 42.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 60,
+        "ndvi": 0.3958,
+        "observed": 47.71,
+        "predicted": 44.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 16,
+        "column": 73,
+        "ndvi": 0.2796,
+        "observed": 49.69,
+        "predicted": 48.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 66,
+        "ndvi": -0.0332,
+        "observed": 33.24,
+        "predicted": 29.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 42,
+        "ndvi": 0.4411,
+        "observed": 47.95,
+        "predicted": 41.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 111,
+        "column": 41,
+        "ndvi": 0.4299,
+        "observed": 46.53,
+        "predicted": 44.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 112,
+        "column": 86,
+        "ndvi": 0.112,
+        "observed": 36.9,
+        "predicted": 34.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 19,
+        "column": 17,
+        "ndvi": 0.3726,
+        "observed": 37.01,
+        "predicted": 35.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 93,
+        "column": 65,
+        "ndvi": 0.3994,
+        "observed": 48.63,
+        "predicted": 45.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 52,
+        "ndvi": 0.3459,
+        "observed": 49.19,
+        "predicted": 45.91
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 95,
+        "column": 90,
+        "ndvi": 0.3747,
+        "observed": 48.6,
+        "predicted": 46.58
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 23,
+        "ndvi": 0.3602,
+        "observed": 44.97,
+        "predicted": 44.32
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 6,
+        "column": 87,
+        "ndvi": 0.0862,
+        "observed": 33.67,
+        "predicted": 34.49
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 31,
+        "ndvi": 0.3546,
+        "observed": 47.19,
+        "predicted": 44.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 47,
+        "column": 15,
+        "ndvi": 0.2552,
+        "observed": 52.24,
+        "predicted": 46.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 76,
+        "column": 76,
+        "ndvi": 0.3029,
+        "observed": 50.93,
+        "predicted": 46.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 15,
+        "column": 1,
+        "ndvi": 0.433,
+        "observed": 50.01,
+        "predicted": 45.22
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 18,
+        "column": 44,
+        "ndvi": 0.4537,
+        "observed": 46.44,
+        "predicted": 43.85
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 53,
+        "column": 39,
+        "ndvi": 0.3755,
+        "observed": 49.17,
+        "predicted": 45.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 104,
+        "column": 43,
+        "ndvi": 0.3127,
+        "observed": 49.83,
+        "predicted": 47.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 29,
+        "column": 26,
+        "ndvi": 0.6914,
+        "observed": 43.12,
+        "predicted": 40.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 13,
+        "column": 49,
+        "ndvi": 0.4979,
+        "observed": 47.39,
+        "predicted": 43.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 53,
+        "column": 36,
+        "ndvi": 0.3718,
+        "observed": 49.81,
+        "predicted": 44.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 19,
+        "column": 59,
+        "ndvi": 0.6028,
+        "observed": 44.98,
+        "predicted": 41.22
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 43,
+        "ndvi": 0.2842,
+        "observed": 48.09,
+        "predicted": 46.7
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 119,
+        "column": 67,
+        "ndvi": 0.4422,
+        "observed": 46.52,
+        "predicted": 45.64
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 2,
+        "column": 46,
+        "ndvi": 0.3417,
+        "observed": 49.94,
+        "predicted": 44.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 33,
+        "ndvi": 0.4468,
+        "observed": 49.98,
+        "predicted": 44.18
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 93,
+        "column": 71,
+        "ndvi": 0.4313,
+        "observed": 49.12,
+        "predicted": 44.27
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 55,
+        "column": 80,
+        "ndvi": 0.2986,
+        "observed": 49.85,
+        "predicted": 44.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 76,
+        "ndvi": 0.2779,
+        "observed": 51.79,
+        "predicted": 45.38
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 5,
+        "ndvi": 0.3929,
+        "observed": 47.9,
+        "predicted": 44.43
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 78,
+        "ndvi": 0.039,
+        "observed": 37.08,
+        "predicted": 32.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 73,
+        "ndvi": 0.39,
+        "observed": 48.94,
+        "predicted": 45.02
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 41,
+        "ndvi": 0.3436,
+        "observed": 53.88,
+        "predicted": 46.83
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 85,
+        "column": 75,
+        "ndvi": 0.4215,
+        "observed": 50.85,
+        "predicted": 43.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 27,
+        "column": 70,
+        "ndvi": 0.214,
+        "observed": 46.85,
+        "predicted": 44.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 11,
+        "column": 9,
+        "ndvi": 0.5779,
+        "observed": 38.88,
+        "predicted": 37.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 51,
+        "ndvi": 0.6995,
+        "observed": 45.61,
+        "predicted": 39.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 22,
+        "column": 84,
+        "ndvi": -0.3248,
+        "observed": 29.03,
+        "predicted": 23.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 106,
+        "column": 11,
+        "ndvi": 0.1091,
+        "observed": 35.72,
+        "predicted": 35.18
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 15,
+        "column": 3,
+        "ndvi": 0.3664,
+        "observed": 50.18,
+        "predicted": 46.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 38,
+        "ndvi": 0.2108,
+        "observed": 53.68,
+        "predicted": 45.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 23,
+        "column": 62,
+        "ndvi": 0.5985,
+        "observed": 46.33,
+        "predicted": 43.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 32,
+        "ndvi": 0.276,
+        "observed": 52.62,
+        "predicted": 49.38
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 86,
+        "ndvi": 0.4056,
+        "observed": 48.3,
+        "predicted": 43.77
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 84,
+        "column": 75,
+        "ndvi": 0.2419,
+        "observed": 50.78,
+        "predicted": 45.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 34,
+        "column": 88,
+        "ndvi": 0.3183,
+        "observed": 46.18,
+        "predicted": 45.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 58,
+        "ndvi": 0.2417,
+        "observed": 52.54,
+        "predicted": 47.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 48,
+        "ndvi": 0.4159,
+        "observed": 49.16,
+        "predicted": 45.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 33,
+        "column": 0,
+        "ndvi": 0.3448,
+        "observed": 48.31,
+        "predicted": 44.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 114,
+        "column": 24,
+        "ndvi": 0.7777,
+        "observed": 40.05,
+        "predicted": 39.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 98,
+        "column": 20,
+        "ndvi": 0.3328,
+        "observed": 50.62,
+        "predicted": 44.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 32,
+        "column": 6,
+        "ndvi": 0.545,
+        "observed": 48.34,
+        "predicted": 43.31
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 119,
+        "column": 35,
+        "ndvi": 0.6593,
+        "observed": 42.76,
+        "predicted": 42.23
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 32,
+        "ndvi": 0.3572,
+        "observed": 49.74,
+        "predicted": 45.5
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 2,
+        "column": 20,
+        "ndvi": 0.7891,
+        "observed": 40.16,
+        "predicted": 39.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 4,
+        "column": 66,
+        "ndvi": 0.1964,
+        "observed": 52.84,
+        "predicted": 47.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 57,
+        "column": 18,
+        "ndvi": 0.4671,
+        "observed": 47.1,
+        "predicted": 44.25
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 84,
+        "column": 58,
+        "ndvi": 0.327,
+        "observed": 51.61,
+        "predicted": 45.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 57,
+        "column": 20,
+        "ndvi": 0.4082,
+        "observed": 47.79,
+        "predicted": 44.59
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 32,
+        "column": 65,
+        "ndvi": 0.481,
+        "observed": 49.26,
+        "predicted": 43.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 71,
+        "column": 78,
+        "ndvi": 0.2903,
+        "observed": 48.75,
+        "predicted": 44.93
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 11,
+        "column": 4,
+        "ndvi": 0.3571,
+        "observed": 49.7,
+        "predicted": 45.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 7,
+        "ndvi": 0.4903,
+        "observed": 47.21,
+        "predicted": 43.5
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 26,
+        "column": 64,
+        "ndvi": 0.4396,
+        "observed": 47.39,
+        "predicted": 43.37
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 0,
+        "ndvi": 0.021,
+        "observed": 35.13,
+        "predicted": 29.51
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 26,
+        "ndvi": 0.3325,
+        "observed": 49.65,
+        "predicted": 44.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 83,
+        "ndvi": 0.2588,
+        "observed": 50.33,
+        "predicted": 45.87
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 15,
+        "column": 22,
+        "ndvi": 0.7565,
+        "observed": 41.62,
+        "predicted": 40.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 15,
+        "column": 24,
+        "ndvi": 0.6969,
+        "observed": 39.41,
+        "predicted": 40.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 34,
+        "column": 15,
+        "ndvi": 0.6643,
+        "observed": 42.64,
+        "predicted": 38.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 81,
+        "ndvi": 0.5362,
+        "observed": 49.0,
+        "predicted": 43.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 70,
+        "ndvi": 0.1981,
+        "observed": 49.13,
+        "predicted": 47.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 86,
+        "ndvi": 0.3392,
+        "observed": 47.84,
+        "predicted": 44.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 38,
+        "column": 11,
+        "ndvi": 0.5266,
+        "observed": 45.39,
+        "predicted": 44.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 51,
+        "ndvi": 0.422,
+        "observed": 53.86,
+        "predicted": 45.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 19,
+        "ndvi": 0.3579,
+        "observed": 48.34,
+        "predicted": 44.4
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 71,
+        "column": 80,
+        "ndvi": 0.4499,
+        "observed": 48.61,
+        "predicted": 45.02
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 32,
+        "column": 55,
+        "ndvi": 0.3614,
+        "observed": 46.96,
+        "predicted": 44.23
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 103,
+        "column": 80,
+        "ndvi": 0.4792,
+        "observed": 47.33,
+        "predicted": 44.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 33,
+        "column": 47,
+        "ndvi": 0.3626,
+        "observed": 47.53,
+        "predicted": 44.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 37,
+        "ndvi": 0.4489,
+        "observed": 44.11,
+        "predicted": 44.05
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 6,
+        "column": 40,
+        "ndvi": 0.4954,
+        "observed": 47.6,
+        "predicted": 43.27
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 77,
+        "column": 11,
+        "ndvi": 0.5807,
+        "observed": 46.94,
+        "predicted": 42.4
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 78,
+        "column": 36,
+        "ndvi": 0.3662,
+        "observed": 50.03,
+        "predicted": 41.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 17,
+        "ndvi": 0.4972,
+        "observed": 44.52,
+        "predicted": 42.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 84,
+        "column": 53,
+        "ndvi": 0.2103,
+        "observed": 51.57,
+        "predicted": 47.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 58,
+        "ndvi": 0.3903,
+        "observed": 48.7,
+        "predicted": 45.02
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 51,
+        "ndvi": 0.225,
+        "observed": 51.82,
+        "predicted": 46.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 28,
+        "column": 36,
+        "ndvi": 0.4269,
+        "observed": 46.35,
+        "predicted": 44.02
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 19,
+        "column": 47,
+        "ndvi": 0.3709,
+        "observed": 47.0,
+        "predicted": 43.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 77,
+        "ndvi": 0.2717,
+        "observed": 49.37,
+        "predicted": 45.91
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 93,
+        "column": 10,
+        "ndvi": 0.1133,
+        "observed": 49.38,
+        "predicted": 48.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 83,
+        "ndvi": 0.3696,
+        "observed": 51.95,
+        "predicted": 44.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 21,
+        "column": 53,
+        "ndvi": 0.4504,
+        "observed": 48.97,
+        "predicted": 43.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 6,
+        "ndvi": 0.31,
+        "observed": 50.08,
+        "predicted": 47.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 61,
+        "column": 77,
+        "ndvi": 0.26,
+        "observed": 47.78,
+        "predicted": 44.82
+      }
+    ]
+  },
+  "spatiotemporal_holdout": {
+    "population": 3636,
+    "points": [
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 109,
+        "ndvi": -0.2749,
+        "observed": 31.34,
+        "predicted": 28.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 95,
+        "column": 122,
+        "ndvi": 0.3955,
+        "observed": 47.59,
+        "predicted": 44.98
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 114,
+        "column": 120,
+        "ndvi": 0.3629,
+        "observed": 48.55,
+        "predicted": 45.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 114,
+        "column": 119,
+        "ndvi": 0.3223,
+        "observed": 48.76,
+        "predicted": 45.53
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 116,
+        "ndvi": 0.4185,
+        "observed": 51.05,
+        "predicted": 45.64
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 111,
+        "ndvi": 0.4643,
+        "observed": 49.7,
+        "predicted": 44.11
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 107,
+        "column": 106,
+        "ndvi": 0.3912,
+        "observed": 47.51,
+        "predicted": 43.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 115,
+        "column": 114,
+        "ndvi": 0.2812,
+        "observed": 55.14,
+        "predicted": 48.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 3,
+        "column": 134,
+        "ndvi": 0.3042,
+        "observed": 51.16,
+        "predicted": 47.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 130,
+        "ndvi": 0.4238,
+        "observed": 47.46,
+        "predicted": 45.27
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 66,
+        "column": 129,
+        "ndvi": -0.031,
+        "observed": 34.66,
+        "predicted": 32.37
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 106,
+        "ndvi": 0.4804,
+        "observed": 48.01,
+        "predicted": 44.11
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 97,
+        "column": 113,
+        "ndvi": 0.4538,
+        "observed": 48.19,
+        "predicted": 44.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 137,
+        "ndvi": 0.5478,
+        "observed": 45.42,
+        "predicted": 42.86
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 35,
+        "column": 138,
+        "ndvi": 0.7636,
+        "observed": 41.06,
+        "predicted": 39.11
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 135,
+        "ndvi": 0.6734,
+        "observed": 43.11,
+        "predicted": 39.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 111,
+        "column": 125,
+        "ndvi": 0.4729,
+        "observed": 51.0,
+        "predicted": 45.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 139,
+        "ndvi": 0.6685,
+        "observed": 44.1,
+        "predicted": 40.7
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 59,
+        "column": 111,
+        "ndvi": 0.7384,
+        "observed": 41.36,
+        "predicted": 39.77
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 53,
+        "column": 119,
+        "ndvi": 0.2738,
+        "observed": 55.7,
+        "predicted": 45.0
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 94,
+        "column": 108,
+        "ndvi": 0.2973,
+        "observed": 53.3,
+        "predicted": 45.9
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 69,
+        "column": 109,
+        "ndvi": 0.2517,
+        "observed": 36.61,
+        "predicted": 34.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 85,
+        "column": 131,
+        "ndvi": 0.3734,
+        "observed": 49.36,
+        "predicted": 44.64
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 26,
+        "column": 115,
+        "ndvi": 0.1526,
+        "observed": 52.14,
+        "predicted": 46.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 117,
+        "ndvi": 0.397,
+        "observed": 51.36,
+        "predicted": 45.55
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 7,
+        "column": 132,
+        "ndvi": 0.4355,
+        "observed": 43.47,
+        "predicted": 44.49
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 76,
+        "column": 110,
+        "ndvi": 0.4713,
+        "observed": 40.92,
+        "predicted": 38.83
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 128,
+        "ndvi": 0.4834,
+        "observed": 45.4,
+        "predicted": 44.58
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 99,
+        "column": 108,
+        "ndvi": 0.2735,
+        "observed": 51.38,
+        "predicted": 45.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 29,
+        "column": 129,
+        "ndvi": 0.5597,
+        "observed": 46.78,
+        "predicted": 43.23
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 105,
+        "column": 121,
+        "ndvi": 0.5282,
+        "observed": 48.68,
+        "predicted": 43.2
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 112,
+        "ndvi": 0.6487,
+        "observed": 46.5,
+        "predicted": 40.57
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 45,
+        "column": 113,
+        "ndvi": 0.3898,
+        "observed": 50.4,
+        "predicted": 46.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 12,
+        "column": 114,
+        "ndvi": 0.2355,
+        "observed": 32.44,
+        "predicted": 33.18
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 115,
+        "ndvi": 0.589,
+        "observed": 46.55,
+        "predicted": 41.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 82,
+        "column": 124,
+        "ndvi": 0.3332,
+        "observed": 51.59,
+        "predicted": 45.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 69,
+        "column": 125,
+        "ndvi": 0.8046,
+        "observed": 41.16,
+        "predicted": 38.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 22,
+        "column": 131,
+        "ndvi": 0.4497,
+        "observed": 44.78,
+        "predicted": 43.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 115,
+        "column": 129,
+        "ndvi": 0.2746,
+        "observed": 52.81,
+        "predicted": 48.14
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 117,
+        "column": 131,
+        "ndvi": 0.5496,
+        "observed": 48.97,
+        "predicted": 43.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 107,
+        "ndvi": 0.2124,
+        "observed": 52.79,
+        "predicted": 48.55
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 102,
+        "column": 126,
+        "ndvi": 0.3062,
+        "observed": 53.82,
+        "predicted": 47.47
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 103,
+        "column": 131,
+        "ndvi": 0.6621,
+        "observed": 44.75,
+        "predicted": 40.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 118,
+        "ndvi": 0.7865,
+        "observed": 40.75,
+        "predicted": 37.57
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 72,
+        "column": 118,
+        "ndvi": 0.8411,
+        "observed": 38.96,
+        "predicted": 39.18
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 24,
+        "column": 139,
+        "ndvi": 0.5377,
+        "observed": 44.75,
+        "predicted": 42.12
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 94,
+        "column": 125,
+        "ndvi": 0.7187,
+        "observed": 44.41,
+        "predicted": 39.8
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 135,
+        "ndvi": 0.5708,
+        "observed": 39.02,
+        "predicted": 37.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 32,
+        "column": 120,
+        "ndvi": 0.3047,
+        "observed": 53.59,
+        "predicted": 46.98
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 119,
+        "column": 108,
+        "ndvi": 0.3247,
+        "observed": 50.66,
+        "predicted": 45.7
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 131,
+        "ndvi": 0.4167,
+        "observed": 45.17,
+        "predicted": 44.32
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 47,
+        "column": 110,
+        "ndvi": 0.5814,
+        "observed": 46.71,
+        "predicted": 41.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 75,
+        "column": 107,
+        "ndvi": 0.8216,
+        "observed": 40.74,
+        "predicted": 39.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 130,
+        "ndvi": 0.6081,
+        "observed": 44.45,
+        "predicted": 41.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 136,
+        "ndvi": 0.6974,
+        "observed": 40.85,
+        "predicted": 39.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 136,
+        "ndvi": 0.6972,
+        "observed": 42.17,
+        "predicted": 40.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 80,
+        "column": 139,
+        "ndvi": 0.8419,
+        "observed": 42.24,
+        "predicted": 37.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 48,
+        "column": 131,
+        "ndvi": 0.3902,
+        "observed": 36.94,
+        "predicted": 35.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 106,
+        "ndvi": 0.3659,
+        "observed": 50.03,
+        "predicted": 45.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 8,
+        "column": 112,
+        "ndvi": 0.5863,
+        "observed": 37.44,
+        "predicted": 38.47
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 125,
+        "ndvi": 0.3687,
+        "observed": 47.83,
+        "predicted": 44.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 26,
+        "column": 132,
+        "ndvi": 0.4233,
+        "observed": 47.26,
+        "predicted": 44.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 127,
+        "ndvi": 0.3935,
+        "observed": 51.1,
+        "predicted": 45.86
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 118,
+        "column": 120,
+        "ndvi": 0.3648,
+        "observed": 49.25,
+        "predicted": 46.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 82,
+        "column": 118,
+        "ndvi": 0.8084,
+        "observed": 42.87,
+        "predicted": 39.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 119,
+        "column": 133,
+        "ndvi": 0.2488,
+        "observed": 53.07,
+        "predicted": 49.11
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 27,
+        "column": 126,
+        "ndvi": 0.5124,
+        "observed": 47.79,
+        "predicted": 43.76
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 38,
+        "column": 129,
+        "ndvi": 0.6695,
+        "observed": 45.57,
+        "predicted": 41.43
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 108,
+        "ndvi": 0.6268,
+        "observed": 42.98,
+        "predicted": 38.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 122,
+        "ndvi": 0.4809,
+        "observed": 48.03,
+        "predicted": 43.43
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 20,
+        "column": 133,
+        "ndvi": 0.5834,
+        "observed": 44.67,
+        "predicted": 42.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 98,
+        "column": 132,
+        "ndvi": 0.2835,
+        "observed": 51.36,
+        "predicted": 46.31
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 136,
+        "ndvi": 0.6193,
+        "observed": 44.44,
+        "predicted": 42.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 39,
+        "column": 109,
+        "ndvi": 0.5802,
+        "observed": 46.81,
+        "predicted": 41.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 109,
+        "ndvi": 0.6845,
+        "observed": 41.08,
+        "predicted": 40.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 54,
+        "column": 134,
+        "ndvi": 0.6938,
+        "observed": 38.03,
+        "predicted": 39.71
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 78,
+        "column": 118,
+        "ndvi": 0.6935,
+        "observed": 45.39,
+        "predicted": 39.98
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 109,
+        "column": 111,
+        "ndvi": 0.4953,
+        "observed": 47.89,
+        "predicted": 42.56
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 77,
+        "column": 136,
+        "ndvi": 0.7903,
+        "observed": 43.63,
+        "predicted": 38.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 82,
+        "column": 117,
+        "ndvi": 0.8083,
+        "observed": 41.87,
+        "predicted": 38.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 78,
+        "column": 129,
+        "ndvi": 0.5443,
+        "observed": 48.73,
+        "predicted": 45.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 114,
+        "ndvi": 0.6122,
+        "observed": 45.38,
+        "predicted": 40.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 8,
+        "column": 129,
+        "ndvi": 0.1426,
+        "observed": 33.44,
+        "predicted": 32.37
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 94,
+        "column": 123,
+        "ndvi": 0.68,
+        "observed": 44.41,
+        "predicted": 40.26
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 99,
+        "column": 125,
+        "ndvi": 0.3811,
+        "observed": 54.86,
+        "predicted": 46.84
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 108,
+        "ndvi": 0.2387,
+        "observed": 55.47,
+        "predicted": 48.44
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 122,
+        "ndvi": 0.7538,
+        "observed": 42.85,
+        "predicted": 39.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 121,
+        "ndvi": 0.8205,
+        "observed": 42.99,
+        "predicted": 38.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 121,
+        "ndvi": 0.6419,
+        "observed": 45.76,
+        "predicted": 41.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 102,
+        "column": 113,
+        "ndvi": 0.3008,
+        "observed": 55.31,
+        "predicted": 48.36
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 71,
+        "column": 105,
+        "ndvi": 0.3675,
+        "observed": 46.93,
+        "predicted": 43.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 39,
+        "column": 129,
+        "ndvi": 0.4828,
+        "observed": 46.35,
+        "predicted": 43.43
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 30,
+        "column": 123,
+        "ndvi": 0.3645,
+        "observed": 51.27,
+        "predicted": 45.92
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 8,
+        "column": 135,
+        "ndvi": 0.6051,
+        "observed": 40.2,
+        "predicted": 41.89
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 3,
+        "column": 126,
+        "ndvi": 0.3521,
+        "observed": 48.83,
+        "predicted": 45.47
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 111,
+        "column": 133,
+        "ndvi": 0.3557,
+        "observed": 51.88,
+        "predicted": 46.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 69,
+        "column": 117,
+        "ndvi": 0.8166,
+        "observed": 41.06,
+        "predicted": 37.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 105,
+        "ndvi": 0.5393,
+        "observed": 47.21,
+        "predicted": 43.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 99,
+        "column": 132,
+        "ndvi": 0.4164,
+        "observed": 47.84,
+        "predicted": 44.98
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 9,
+        "column": 111,
+        "ndvi": 0.1446,
+        "observed": 33.36,
+        "predicted": 32.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 116,
+        "column": 121,
+        "ndvi": 0.7427,
+        "observed": 44.38,
+        "predicted": 40.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 134,
+        "ndvi": 0.223,
+        "observed": 46.46,
+        "predicted": 47.52
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 0,
+        "column": 131,
+        "ndvi": 0.4682,
+        "observed": 47.84,
+        "predicted": 45.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 132,
+        "ndvi": 0.4749,
+        "observed": 45.6,
+        "predicted": 43.82
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 57,
+        "column": 116,
+        "ndvi": 0.3819,
+        "observed": 49.27,
+        "predicted": 38.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 46,
+        "column": 132,
+        "ndvi": 0.6774,
+        "observed": 41.21,
+        "predicted": 39.15
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 77,
+        "column": 127,
+        "ndvi": 0.7383,
+        "observed": 43.82,
+        "predicted": 39.24
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 6,
+        "column": 135,
+        "ndvi": 0.3913,
+        "observed": 49.79,
+        "predicted": 47.2
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 54,
+        "column": 122,
+        "ndvi": 0.3476,
+        "observed": 55.46,
+        "predicted": 44.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 38,
+        "column": 137,
+        "ndvi": 0.6689,
+        "observed": 40.52,
+        "predicted": 39.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 3,
+        "column": 111,
+        "ndvi": 0.6511,
+        "observed": 45.63,
+        "predicted": 40.59
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 116,
+        "ndvi": 0.7122,
+        "observed": 45.82,
+        "predicted": 39.66
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 119,
+        "column": 136,
+        "ndvi": 0.6092,
+        "observed": 43.32,
+        "predicted": 41.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 54,
+        "column": 127,
+        "ndvi": 0.6657,
+        "observed": 44.3,
+        "predicted": 41.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 114,
+        "ndvi": 0.5412,
+        "observed": 47.76,
+        "predicted": 41.78
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 118,
+        "column": 135,
+        "ndvi": 0.2941,
+        "observed": 48.24,
+        "predicted": 49.22
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 80,
+        "column": 120,
+        "ndvi": 0.7771,
+        "observed": 43.39,
+        "predicted": 37.72
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 47,
+        "column": 122,
+        "ndvi": 0.3603,
+        "observed": 53.84,
+        "predicted": 44.8
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 93,
+        "column": 138,
+        "ndvi": 0.2919,
+        "observed": 48.05,
+        "predicted": 45.51
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 54,
+        "column": 115,
+        "ndvi": 0.3001,
+        "observed": 50.52,
+        "predicted": 46.65
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 85,
+        "column": 136,
+        "ndvi": 0.7513,
+        "observed": 43.73,
+        "predicted": 41.1
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 110,
+        "column": 137,
+        "ndvi": 0.5523,
+        "observed": 47.87,
+        "predicted": 43.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 121,
+        "ndvi": 0.6412,
+        "observed": 46.27,
+        "predicted": 40.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 15,
+        "column": 106,
+        "ndvi": 0.8229,
+        "observed": 39.51,
+        "predicted": 39.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 108,
+        "ndvi": 0.6752,
+        "observed": 42.12,
+        "predicted": 39.25
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 81,
+        "column": 126,
+        "ndvi": 0.5737,
+        "observed": 45.49,
+        "predicted": 42.14
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 122,
+        "ndvi": 0.5941,
+        "observed": 47.18,
+        "predicted": 43.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 106,
+        "ndvi": 0.4696,
+        "observed": 49.36,
+        "predicted": 44.6
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 117,
+        "column": 123,
+        "ndvi": 0.5438,
+        "observed": 47.76,
+        "predicted": 42.96
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 55,
+        "column": 114,
+        "ndvi": 0.3684,
+        "observed": 50.79,
+        "predicted": 44.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 28,
+        "column": 137,
+        "ndvi": 0.477,
+        "observed": 45.53,
+        "predicted": 43.38
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 88,
+        "column": 126,
+        "ndvi": 0.3997,
+        "observed": 51.04,
+        "predicted": 45.91
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 34,
+        "column": 136,
+        "ndvi": 0.6786,
+        "observed": 42.11,
+        "predicted": 43.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 17,
+        "column": 116,
+        "ndvi": -0.112,
+        "observed": 30.62,
+        "predicted": 29.33
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 102,
+        "column": 137,
+        "ndvi": 0.3982,
+        "observed": 46.75,
+        "predicted": 45.57
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 117,
+        "column": 115,
+        "ndvi": 0.4583,
+        "observed": 52.75,
+        "predicted": 44.43
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 94,
+        "column": 128,
+        "ndvi": 0.759,
+        "observed": 43.73,
+        "predicted": 39.96
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 85,
+        "column": 122,
+        "ndvi": 0.534,
+        "observed": 48.6,
+        "predicted": 43.47
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 98,
+        "column": 130,
+        "ndvi": 0.3451,
+        "observed": 48.96,
+        "predicted": 46.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 114,
+        "ndvi": 0.3746,
+        "observed": 49.87,
+        "predicted": 45.63
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 96,
+        "column": 106,
+        "ndvi": 0.3193,
+        "observed": 50.13,
+        "predicted": 45.79
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 65,
+        "column": 137,
+        "ndvi": 0.6116,
+        "observed": 47.46,
+        "predicted": 42.06
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 107,
+        "column": 136,
+        "ndvi": 0.3271,
+        "observed": 48.2,
+        "predicted": 46.33
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 43,
+        "column": 113,
+        "ndvi": 0.3564,
+        "observed": 52.34,
+        "predicted": 45.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 20,
+        "column": 136,
+        "ndvi": 0.4776,
+        "observed": 46.73,
+        "predicted": 45.33
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 44,
+        "column": 133,
+        "ndvi": 0.4182,
+        "observed": 49.53,
+        "predicted": 45.49
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 105,
+        "ndvi": 0.2838,
+        "observed": 55.51,
+        "predicted": 47.12
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 111,
+        "column": 119,
+        "ndvi": 0.3669,
+        "observed": 49.12,
+        "predicted": 45.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 114,
+        "column": 132,
+        "ndvi": 0.1773,
+        "observed": 53.95,
+        "predicted": 48.3
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 23,
+        "column": 133,
+        "ndvi": 0.2623,
+        "observed": 50.22,
+        "predicted": 48.17
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 98,
+        "column": 128,
+        "ndvi": 0.3028,
+        "observed": 48.89,
+        "predicted": 46.34
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 44,
+        "column": 117,
+        "ndvi": 0.2521,
+        "observed": 55.56,
+        "predicted": 47.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 99,
+        "column": 116,
+        "ndvi": 0.486,
+        "observed": 48.09,
+        "predicted": 44.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 100,
+        "column": 107,
+        "ndvi": 0.3314,
+        "observed": 49.98,
+        "predicted": 45.28
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 6,
+        "column": 121,
+        "ndvi": 0.8003,
+        "observed": 40.15,
+        "predicted": 38.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 117,
+        "ndvi": 0.3522,
+        "observed": 49.53,
+        "predicted": 45.29
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 49,
+        "column": 123,
+        "ndvi": 0.5266,
+        "observed": 51.67,
+        "predicted": 42.48
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 138,
+        "ndvi": 0.7337,
+        "observed": 43.68,
+        "predicted": 39.46
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 18,
+        "column": 110,
+        "ndvi": 0.53,
+        "observed": 35.37,
+        "predicted": 34.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 23,
+        "column": 117,
+        "ndvi": 0.095,
+        "observed": 43.84,
+        "predicted": 41.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 116,
+        "ndvi": 0.3498,
+        "observed": 51.54,
+        "predicted": 44.51
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 108,
+        "column": 139,
+        "ndvi": 0.1509,
+        "observed": 50.05,
+        "predicted": 47.74
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 32,
+        "column": 127,
+        "ndvi": 0.4374,
+        "observed": 51.25,
+        "predicted": 45.34
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 16,
+        "column": 111,
+        "ndvi": 0.7236,
+        "observed": 41.08,
+        "predicted": 40.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 110,
+        "ndvi": 0.6171,
+        "observed": 39.77,
+        "predicted": 39.23
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 24,
+        "column": 110,
+        "ndvi": 0.3899,
+        "observed": 50.59,
+        "predicted": 44.55
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 115,
+        "ndvi": 0.2883,
+        "observed": 56.15,
+        "predicted": 46.56
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 132,
+        "ndvi": 0.4471,
+        "observed": 44.02,
+        "predicted": 40.26
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 2,
+        "column": 118,
+        "ndvi": 0.5388,
+        "observed": 45.98,
+        "predicted": 42.09
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 70,
+        "column": 121,
+        "ndvi": 0.3731,
+        "observed": 51.71,
+        "predicted": 44.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 97,
+        "column": 133,
+        "ndvi": 0.4507,
+        "observed": 47.93,
+        "predicted": 44.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 59,
+        "column": 126,
+        "ndvi": 0.813,
+        "observed": 39.09,
+        "predicted": 37.77
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 56,
+        "column": 107,
+        "ndvi": 0.5593,
+        "observed": 42.43,
+        "predicted": 38.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 44,
+        "column": 105,
+        "ndvi": 0.2281,
+        "observed": 45.79,
+        "predicted": 46.11
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 92,
+        "column": 112,
+        "ndvi": 0.4517,
+        "observed": 49.06,
+        "predicted": 43.95
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 87,
+        "column": 132,
+        "ndvi": 0.3252,
+        "observed": 52.01,
+        "predicted": 46.07
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 121,
+        "ndvi": 0.4381,
+        "observed": 48.68,
+        "predicted": 45.24
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 138,
+        "ndvi": 0.3765,
+        "observed": 46.31,
+        "predicted": 44.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 31,
+        "column": 129,
+        "ndvi": 0.4663,
+        "observed": 49.5,
+        "predicted": 44.72
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 13,
+        "column": 117,
+        "ndvi": 0.6471,
+        "observed": 39.94,
+        "predicted": 41.14
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 105,
+        "ndvi": 0.6389,
+        "observed": 38.41,
+        "predicted": 38.4
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 27,
+        "column": 111,
+        "ndvi": 0.1288,
+        "observed": 54.14,
+        "predicted": 50.24
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 109,
+        "column": 117,
+        "ndvi": 0.3944,
+        "observed": 50.05,
+        "predicted": 44.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 18,
+        "column": 133,
+        "ndvi": 0.6626,
+        "observed": 37.68,
+        "predicted": 38.5
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 43,
+        "column": 115,
+        "ndvi": 0.422,
+        "observed": 53.86,
+        "predicted": 45.01
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 27,
+        "column": 139,
+        "ndvi": 0.4708,
+        "observed": 45.25,
+        "predicted": 43.41
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 44,
+        "column": 118,
+        "ndvi": 0.2433,
+        "observed": 56.38,
+        "predicted": 46.42
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 134,
+        "ndvi": 0.399,
+        "observed": 49.93,
+        "predicted": 45.69
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 128,
+        "ndvi": 0.4777,
+        "observed": 49.99,
+        "predicted": 45.39
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 37,
+        "column": 132,
+        "ndvi": 0.529,
+        "observed": 45.11,
+        "predicted": 43.37
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 51,
+        "column": 132,
+        "ndvi": 0.0426,
+        "observed": 37.41,
+        "predicted": 33.71
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 95,
+        "column": 124,
+        "ndvi": 0.5907,
+        "observed": 45.36,
+        "predicted": 41.56
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 35,
+        "column": 131,
+        "ndvi": 0.0837,
+        "observed": 45.49,
+        "predicted": 54.12
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 115,
+        "column": 131,
+        "ndvi": 0.4136,
+        "observed": 50.7,
+        "predicted": 45.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 104,
+        "column": 128,
+        "ndvi": 0.3507,
+        "observed": 51.15,
+        "predicted": 46.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 35,
+        "column": 117,
+        "ndvi": 0.2388,
+        "observed": 54.23,
+        "predicted": 43.81
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 119,
+        "column": 105,
+        "ndvi": 0.2681,
+        "observed": 41.64,
+        "predicted": 37.72
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 11,
+        "column": 124,
+        "ndvi": -0.1041,
+        "observed": 33.03,
+        "predicted": 31.22
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 2,
+        "column": 107,
+        "ndvi": 0.7486,
+        "observed": 42.38,
+        "predicted": 39.67
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 4,
+        "column": 121,
+        "ndvi": 0.5464,
+        "observed": 44.9,
+        "predicted": 42.7
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 61,
+        "column": 116,
+        "ndvi": 0.2268,
+        "observed": 55.94,
+        "predicted": 46.03
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 139,
+        "ndvi": 0.6881,
+        "observed": 45.63,
+        "predicted": 40.54
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 138,
+        "ndvi": 0.3506,
+        "observed": 49.38,
+        "predicted": 45.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 108,
+        "ndvi": 0.3728,
+        "observed": 49.4,
+        "predicted": 43.9
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 117,
+        "ndvi": 0.72,
+        "observed": 43.98,
+        "predicted": 40.75
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 13,
+        "column": 107,
+        "ndvi": 0.6517,
+        "observed": 34.65,
+        "predicted": 38.19
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 42,
+        "column": 138,
+        "ndvi": 0.7692,
+        "observed": 42.2,
+        "predicted": 37.49
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 30,
+        "column": 113,
+        "ndvi": 0.3884,
+        "observed": 51.86,
+        "predicted": 43.99
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 50,
+        "column": 118,
+        "ndvi": 0.3964,
+        "observed": 50.85,
+        "predicted": 44.97
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 89,
+        "column": 119,
+        "ndvi": 0.835,
+        "observed": 41.54,
+        "predicted": 37.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 91,
+        "column": 135,
+        "ndvi": 0.4413,
+        "observed": 47.44,
+        "predicted": 44.62
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 19,
+        "column": 126,
+        "ndvi": 0.4926,
+        "observed": 42.04,
+        "predicted": 43.57
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 18,
+        "column": 135,
+        "ndvi": 0.4912,
+        "observed": 36.65,
+        "predicted": 37.27
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 131,
+        "ndvi": 0.1959,
+        "observed": 47.73,
+        "predicted": 47.0
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 101,
+        "column": 136,
+        "ndvi": 0.4121,
+        "observed": 47.52,
+        "predicted": 45.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 55,
+        "column": 109,
+        "ndvi": 0.6288,
+        "observed": 46.14,
+        "predicted": 40.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 45,
+        "column": 132,
+        "ndvi": 0.3396,
+        "observed": 50.64,
+        "predicted": 46.02
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 40,
+        "column": 114,
+        "ndvi": 0.5185,
+        "observed": 48.63,
+        "predicted": 44.12
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 97,
+        "column": 108,
+        "ndvi": 0.2628,
+        "observed": 57.97,
+        "predicted": 48.77
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 86,
+        "column": 137,
+        "ndvi": 0.6828,
+        "observed": 44.13,
+        "predicted": 40.44
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 79,
+        "column": 130,
+        "ndvi": 0.5139,
+        "observed": 48.13,
+        "predicted": 43.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 35,
+        "column": 110,
+        "ndvi": 0.4966,
+        "observed": 48.55,
+        "predicted": 43.52
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 106,
+        "column": 121,
+        "ndvi": 0.3661,
+        "observed": 50.17,
+        "predicted": 45.61
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 36,
+        "column": 123,
+        "ndvi": 0.5818,
+        "observed": 49.64,
+        "predicted": 41.94
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 10,
+        "column": 116,
+        "ndvi": -0.246,
+        "observed": 29.18,
+        "predicted": 23.32
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 6,
+        "column": 107,
+        "ndvi": 0.3913,
+        "observed": 50.13,
+        "predicted": 44.88
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 83,
+        "column": 136,
+        "ndvi": 0.6637,
+        "observed": 45.91,
+        "predicted": 42.08
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 84,
+        "column": 128,
+        "ndvi": 0.2982,
+        "observed": 51.7,
+        "predicted": 45.45
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 116,
+        "column": 115,
+        "ndvi": 0.3781,
+        "observed": 51.48,
+        "predicted": 44.8
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 90,
+        "column": 115,
+        "ndvi": 0.6244,
+        "observed": 45.92,
+        "predicted": 43.58
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 12,
+        "column": 106,
+        "ndvi": 0.4046,
+        "observed": 32.89,
+        "predicted": 36.68
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 62,
+        "column": 119,
+        "ndvi": 0.5975,
+        "observed": 46.87,
+        "predicted": 42.73
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 31,
+        "column": 136,
+        "ndvi": 0.6752,
+        "observed": 42.28,
+        "predicted": 40.07
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 24,
+        "column": 120,
+        "ndvi": 0.4044,
+        "observed": 49.06,
+        "predicted": 44.86
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 119,
+        "ndvi": 0.2214,
+        "observed": 56.72,
+        "predicted": 49.16
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 117,
+        "column": 116,
+        "ndvi": 0.2629,
+        "observed": 50.71,
+        "predicted": 46.98
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 124,
+        "ndvi": 0.3896,
+        "observed": 47.68,
+        "predicted": 44.35
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 25,
+        "column": 134,
+        "ndvi": 0.4216,
+        "observed": 47.7,
+        "predicted": 46.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 52,
+        "column": 126,
+        "ndvi": 0.4597,
+        "observed": 45.68,
+        "predicted": 44.13
+      },
+      {
+        "scene": "LC09_L2SP_123039_20240721_02_T1",
+        "row": 67,
+        "column": 116,
+        "ndvi": 0.7484,
+        "observed": 42.38,
+        "predicted": 38.45
+      }
+    ]
+  }
+}

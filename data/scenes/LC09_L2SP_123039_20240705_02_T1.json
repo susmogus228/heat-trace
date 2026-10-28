@@ -1,0 +1,24 @@
+{
+  "id": "LC09_L2SP_123039_20240705_02_T1",
+  "datetime": "2024-07-05T02:55:34.915279Z",
+  "cloud_cover_scene_percent": 1.74,
+  "bbox": [
+    114.15,
+    30.42,
+    114.5,
+    30.72
+  ],
+  "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/landsat-c2-l2/items/LC09_L2SP_123039_20240705_02_T1",
+  "band_names": [
+    "lwir11",
+    "red",
+    "nir08",
+    "swir16",
+    "qa_pixel"
+  ],
+  "shape": [
+    120,
+    140
+  ],
+  "sampling": "nearest neighbour from source pixels; output grid not a new thermal measurement resolution"
+}
